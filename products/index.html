@@ -1,8 +1,10 @@
 ---
 layout: default
+type: navleft
+sort: 1
 title: Products
 ---
-Products
+{{page.title}}
 
 {% assign sorted_pages = site.pages | where:"type", "product" | sort: "sort" %}
 {% for p in sorted_pages %}

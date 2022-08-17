@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Uses
+type: navleft
+sort: 2
+title: Applications
 ---
-Uses
+{{page.title}}
 
-{% assign sorted_pages = site.pages | where:"type", "uses" | sort: "sort" %}
+{% assign sorted_pages = site.pages | where:"type", "applications" | sort: "sort" %}
 {% for p in sorted_pages %}
   <h2>
     <a href="{{ site.baseurl }}{{ p.url }}">
