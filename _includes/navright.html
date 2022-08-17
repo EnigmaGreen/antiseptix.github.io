@@ -1,9 +1,6 @@
 {% assign sorted_pages = site.pages | where:"type", "navright" | sort: "sort" %}
 {% for p in sorted_pages %}
-  <h2>
-    <a href="{{ site.baseurl }}{{ p.url }}">
-      {{ p.name }} - {{ p.title }}
-    </a>
-  </h2>
-  <p>{{ product.content | markdownify }}</p>
+<li class="nav-item">
+  <a class="nav-link" href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+</li>
 {% endfor %}

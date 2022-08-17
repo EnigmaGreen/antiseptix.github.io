@@ -1,2 +1,16 @@
-{% include navleft.html %}
-{% include navright.html %}
+<nav class="navbar header navbar-expand maintopnav g-0  fixed-top">
+    <div class="container-fluid g-0">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav mx-auto brandingcontainer">
+        {% include navleft.html %}
+        <div class="branding">
+            <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/images/logo1b1.png"></a>
+        </div>
+        {% include navright.html %}
+      </ul>
+    </div>
+</div>
+  </nav>

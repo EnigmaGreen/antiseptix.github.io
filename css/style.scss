@@ -1,0 +1,84 @@
+---
+---
+.maintopnav {
+    background: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
+
+
+    .nav-link {
+        color: white;
+    }
+}
+
+.maintopnav:hover {
+    background: white; /*linear-gradient(to bottom, rgba(255, 255, 255,1), rgba(250, 250, 250,1));*/
+    box-shadow: 0px -1px 0px #999 inset;
+
+    .nav-link {
+        color: black;
+    }
+
+    .nav-link:hover {
+        box-shadow: 0px -3px 0px rgb(23, 174, 0) inset;
+    }
+}
+
+.brandingcontainer {
+    height: 2.7em;
+
+    @media only screen and (max-width: 576px) {
+        .branding {
+            img {
+                width: 7em;
+            }
+        }
+
+        .nav-item{
+            padding: 0;
+        }
+    }
+
+    @media only screen and (min-width: 577px) {
+        .branding {
+            img {
+                width: 11em;
+            }
+        }
+
+        .nav-item{
+            padding: 0 0.5em;
+        }
+    }
+
+    @media only screen and (min-width: 768px) {
+        .branding {
+            img {
+                width: 15em;
+            }
+        }
+
+        .nav-item{
+            padding: 0 1em;
+        }
+    }
+
+}
+
+.carousel-inner {
+    img {
+        object-fit: cover;
+    }
+}
+
+.carousel-inner.splash-lg {
+    img {
+        min-height: 600px;
+        max-height: 600px;    
+    }
+}
+
+.carousel-inner.splash-md {
+    img {
+        min-height: 300px;
+        max-height: 300px;    
+    }
+}
