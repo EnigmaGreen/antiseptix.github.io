@@ -8,10 +8,5 @@ title: Applications
 
 {% assign sorted_pages = site.pages | where:"type", "applications" | sort: "sort" %}
 {% for p in sorted_pages %}
-  <h2>
-    <a href="{{ site.baseurl }}{{ p.url }}">
-      {{ p.name }} - {{ p.title }}
-    </a>
-  </h2>
-  <p>{{ product.content | markdownify }}</p>
+{% include button.html innerpage=p %}
 {% endfor %}
