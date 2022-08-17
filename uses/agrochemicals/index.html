@@ -1,0 +1,17 @@
+---
+layout: default
+type: uses
+sort: 1
+title: Agrochemicals
+---
+{{page.title}}
+
+{% assign sorted_pages = site.pages | where:"type", "agrochemicals" | sort: "sort" %}
+{% for p in sorted_pages %}
+  <h2>
+    <a href="{{ p.url }}">
+      {{ p.name }} - {{ p.title }}
+    </a>
+  </h2>
+  <p>{{ product.content | markdownify }}</p>
+{% endfor %}

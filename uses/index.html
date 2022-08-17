@@ -1,0 +1,15 @@
+---
+layout: default
+title: Uses
+---
+Uses
+
+{% assign sorted_pages = site.pages | where:"type", "uses" | sort: "sort" %}
+{% for p in sorted_pages %}
+  <h2>
+    <a href="{{ p.url }}">
+      {{ p.name }} - {{ p.title }}
+    </a>
+  </h2>
+  <p>{{ product.content | markdownify }}</p>
+{% endfor %}
