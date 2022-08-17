@@ -10,7 +10,7 @@
 
 .brandingcontainer { height: 2.7em; }
 
-@media only screen and (max-width: 576px) { .brandingcontainer .branding img { width: 7em; } .brandingcontainer .nav-item { padding: 0; } }
+@media only screen and (max-width: 576px) { .brandingcontainer .branding img { width: 7em; } .brandingcontainer .nav-item { padding: 0 2em; } }
 
 @media only screen and (min-width: 577px) { .brandingcontainer .branding img { width: 11em; } .brandingcontainer .nav-item { padding: 0 0.5em; } }
 
