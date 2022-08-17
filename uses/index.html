@@ -7,7 +7,7 @@ Uses
 {% assign sorted_pages = site.pages | where:"type", "uses" | sort: "sort" %}
 {% for p in sorted_pages %}
   <h2>
-    <a href="{{ p.url }}">
+    <a href="{{ site.baseurl }}{{ p.url }}">
       {{ p.name }} - {{ p.title }}
     </a>
   </h2>
