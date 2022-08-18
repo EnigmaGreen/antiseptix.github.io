@@ -4,6 +4,10 @@
     background: linear-gradient(to bottom, rgb(0, 62, 0), green);;
 }
 
+.bg-black {
+    background: linear-gradient(to bottom, rgb(52, 52, 52), black);;
+}
+
 @media only screen and (max-width: 576px) {
     .straplineheading {
         h1 {
