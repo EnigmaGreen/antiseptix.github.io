@@ -190,3 +190,23 @@ html:not([data-scroll='0']) .maintopnav {
 .vcardcontainer {
     
 }
+
+.footer {
+    .footerlogo img {
+        width: 6em;
+    }
+    
+    .fa {
+        color: #333;
+        text-decoration: none;
+        padding: 0.3em;
+        background-color: gray;
+        border-radius: 1em;
+        width: 1.5em;
+        text-align: center;
+    }
+
+    .fa:hover {
+        background-color: white;
+    }
+}

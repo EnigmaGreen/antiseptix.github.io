@@ -1,0 +1,46 @@
+<div class="container-fluid bg-dark text-white-50 p-5 footer">
+    <div class="row g-0">
+        <div class="col-sm-12 col-md-3 text-center text-sm-center text-md-start g-0">
+            <p class="py-3 text-light footerlogo"><img src="{{site.baseurl}}/images/LOGO1b1.png"></p>
+        </div>
+        <div class="row col-sm-6 col-md-6 text-center text-md-start g-0 pb-3">
+            <p class="text-uppercase fw-bold py-3 text-light">Quick Links</p>
+            <div class="col-md-6 g-0">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link py-1" href="/index.html">Home</a></li>
+                    {% assign sorted_pages = site.pages | where:"type", "navleft" | sort: "sort" %}
+                    {% for p in sorted_pages %}
+                        <li class="nav-item"><a class="nav-link py-1" href="{{ site.baseurl }}{{ p.url }}">{{p.title}}</a></li>
+                    {% endfor %}
+                    {% assign sorted_pages = site.pages | where:"type", "navright" | sort: "sort" %}
+                    {% for p in sorted_pages %}
+                        <li class="nav-item"><a class="nav-link py-1" href="{{ site.baseurl }}{{ p.url }}">{{p.title}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="col-md-6 g-0">
+                <ul class="navbar-nav">                    
+                    {% assign sorted_pages = site.pages | where:"type", "applications" | sort: "sort" %}
+                    {% for p in sorted_pages %}
+                        <li class="nav-item"><a class="nav-link py-1" href="{{ site.baseurl }}{{ p.url }}">{{p.title}}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-3 text-center text-md-start g-0 pb-3">
+            <p class="text-uppercase fw-bold py-3 text-light">Stay in Touch</p>
+            <p>Follow us on:</p>
+            <p>
+                <a href="#" class="fa fa-facebook text-dark text-decoration-none"></a>
+                <a href="#" class="fa fa-twitter"></a>
+                <a href="#" class="fa fa-google"></a>
+                <a href="#" class="fa fa-linkedin"></a>
+                <a href="#" class="fa fa-youtube"></a>
+                <a href="#" class="fa fa-instagram"></a>
+            </p>
+        </div>
+        <div class="col text-center text-sm-center text-md-start g-0">
+            <p class="py-3">Copyright &copy; 2022 Enigma Green Ltd. Registered in England and Wales, UK. All rights reserved.</p>
+        </div>        
+    </div>
+</div>

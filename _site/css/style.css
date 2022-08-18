@@ -30,4 +30,10 @@
 
 .hscrollingcard { overflow: scroll; }
 
+.footer .footerlogo img { width: 6em; }
+
+.footer .fa { color: #333; text-decoration: none; padding: 0.3em; background-color: gray; border-radius: 1em; width: 1.5em; text-align: center; }
+
+.footer .fa:hover { background-color: white; }
+
 /*# sourceMappingURL=style.css.map */
