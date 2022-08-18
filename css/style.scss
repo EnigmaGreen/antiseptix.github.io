@@ -26,6 +26,19 @@
             padding: 0 0.8em;
         }
     }
+
+
+    .hscrollingcard {
+        .card:first-of-type{
+            margin-left: 4em;
+        }
+
+        .card-body {
+            min-height: 200px;
+            min-width: 200px;
+            margin-right: 5px;
+        }
+    }
 }
 
 @media only screen and (min-width: 577px) {
@@ -55,6 +68,18 @@
             padding: 0 0.5em;
         }
     }
+
+    .hscrollingcard {
+        .card:first-of-type{
+            margin-left: 7em;
+        }
+
+        .card-body {
+            min-height: 200px;
+            min-width: 200px;
+            margin-right: 5px;
+        }
+    }
 }
 
 @media only screen and (min-width: 768px) {
@@ -82,6 +107,18 @@
 
         .nav-item{
             padding: 0 1em;
+        }
+    }
+
+    .hscrollingcard {
+        .card:first-of-type{
+            margin-left: 9em;
+        }
+
+        .card-body {
+            min-height: 300px;
+            min-width: 300px;
+            margin-right: 5px;
         }
     }
 }
@@ -144,14 +181,4 @@ html:not([data-scroll='0']) .maintopnav {
 
 .hscrollingcard {
     overflow: scroll;
-
-    .card:first-of-type{
-        margin-left: 9em;
-    }
-
-    .card-body {
-        min-height: 300px;
-        min-width: 300px;
-        margin-right: 5px;
-    }
 }

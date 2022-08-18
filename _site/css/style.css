@@ -1,10 +1,10 @@
 .bg-green { background: linear-gradient(to bottom, #003e00, green); }
 
-@media only screen and (max-width: 576px) { .straplineheading h1 { font-size: 1em; } .straplineheading h1 span { font-size: 2em; } .brandingcontainer .branding img { width: 7em; } .brandingcontainer .nav-item { padding: 0 0.8em; } }
+@media only screen and (max-width: 576px) { .straplineheading h1 { font-size: 1em; } .straplineheading h1 span { font-size: 2em; } .brandingcontainer .branding img { width: 7em; } .brandingcontainer .nav-item { padding: 0 0.8em; } .hscrollingcard .card:first-of-type { margin-left: 4em; } .hscrollingcard .card-body { min-height: 200px; min-width: 200px; margin-right: 5px; } }
 
-@media only screen and (min-width: 577px) { .straplineheading h1 { font-size: 1.5em; } .straplineheading h1 span { font-size: 2em; } .brandingcontainer .branding a { padding: 0 1em; } .brandingcontainer .branding img { width: 11em; } .brandingcontainer .nav-item { padding: 0 0.5em; } }
+@media only screen and (min-width: 577px) { .straplineheading h1 { font-size: 1.5em; } .straplineheading h1 span { font-size: 2em; } .brandingcontainer .branding a { padding: 0 1em; } .brandingcontainer .branding img { width: 11em; } .brandingcontainer .nav-item { padding: 0 0.5em; } .hscrollingcard .card:first-of-type { margin-left: 7em; } .hscrollingcard .card-body { min-height: 200px; min-width: 200px; margin-right: 5px; } }
 
-@media only screen and (min-width: 768px) { .straplineheading h1 { font-size: 2em; } .straplineheading h1 span { font-size: 2em; } .brandingcontainer .branding a { padding: 0 2em; } .brandingcontainer .branding img { width: 15em; } .brandingcontainer .nav-item { padding: 0 1em; } }
+@media only screen and (min-width: 768px) { .straplineheading h1 { font-size: 2em; } .straplineheading h1 span { font-size: 2em; } .brandingcontainer .branding a { padding: 0 2em; } .brandingcontainer .branding img { width: 15em; } .brandingcontainer .nav-item { padding: 0 1em; } .hscrollingcard .card:first-of-type { margin-left: 9em; } .hscrollingcard .card-body { min-height: 300px; min-width: 300px; margin-right: 5px; } }
 
 .maintopnav { background: linear-gradient(to bottom, black, rgba(0, 0, 0, 0)); }
 
@@ -27,9 +27,5 @@
 .straplineheading h1 span { display: block; font-weight: lighter; }
 
 .hscrollingcard { overflow: scroll; }
-
-.hscrollingcard .card:first-of-type { margin-left: 9em; }
-
-.hscrollingcard .card-body { min-height: 300px; min-width: 300px; margin-right: 5px; }
 
 /*# sourceMappingURL=style.css.map */
