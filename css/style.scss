@@ -5,7 +5,7 @@
 }
 
 .bg-black {
-    background: linear-gradient(to bottom, rgb(52, 52, 52), black);;
+    background: linear-gradient(to bottom, rgb(6, 40, 91), black);;
 }
 
 @media only screen and (max-width: 576px) {
@@ -185,4 +185,8 @@ html:not([data-scroll='0']) .maintopnav {
 
 .hscrollingcard {
     overflow: scroll;
+}
+
+.vcardcontainer {
+    
 }

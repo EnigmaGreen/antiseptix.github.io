@@ -2,12 +2,12 @@
 layout: default
 type: navleft
 sort: 2
-title: Advice
+title: Effectiveness
 css: d-none d-sm-block
 ---
 {{page.title}}
 
-{% assign sorted_pages = site.pages | where:"type", "advice" | sort: "sort" %}
+{% assign sorted_pages = site.pages | where:"type", "effectiveness" | sort: "sort" %}
 {% for p in sorted_pages %}
 {% include button.html innerpage=p %}
 {% endfor %}

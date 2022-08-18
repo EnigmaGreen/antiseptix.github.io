@@ -1,6 +1,6 @@
 .bg-green { background: linear-gradient(to bottom, #003e00, green); }
 
-.bg-black { background: linear-gradient(to bottom, #343434, black); }
+.bg-black { background: linear-gradient(to bottom, #06285b, black); }
 
 @media only screen and (max-width: 576px) { .straplineheading h1 { font-size: 1em; } .straplineheading h1 span { font-size: 2em; } .brandingcontainer .branding img { width: 7em; } .brandingcontainer .nav-item { padding: 0 0.8em; } .hscrollingcard .card:first-of-type { margin-left: 4em; } .hscrollingcard .card-body { min-height: 200px; min-width: 200px; margin-right: 5px; } }
 
