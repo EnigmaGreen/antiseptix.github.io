@@ -9,6 +9,13 @@
 }
 
 @media only screen and (max-width: 576px) {
+    .carousel-inner.splash-lg {
+        img {
+            min-height: 300px;
+            max-height: 300px;    
+        }
+    }
+
     .straplineheading {
         h1 {
             font-size: 1em;
@@ -46,6 +53,13 @@
 }
 
 @media only screen and (min-width: 577px) {
+    .carousel-inner.splash-lg {
+        img {
+            min-height: 300px;
+            max-height: 300px;    
+        }
+    }
+
     .straplineheading {
         h1 {
             font-size: 1.5em;
@@ -87,6 +101,13 @@
 }
 
 @media only screen and (min-width: 768px) {
+    .carousel-inner.splash-lg {
+        img {
+            min-height: 500px;
+            max-height: 500px;    
+        }
+    }
+    
     .straplineheading {
         h1 {
             font-size: 2em;
@@ -157,13 +178,6 @@ html:not([data-scroll='0']) .maintopnav {
 .carousel-inner {
     img {
         object-fit: cover;
-    }
-}
-
-.carousel-inner.splash-lg {
-    img {
-        min-height: 300px;
-        max-height: 300px;    
     }
 }
 
