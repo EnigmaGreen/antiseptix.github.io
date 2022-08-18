@@ -1,3 +1,5 @@
+.bg-green { background: linear-gradient(to bottom, #003e00, green); }
+
 @media only screen and (max-width: 576px) { .straplineheading h1 { font-size: 1em; } .straplineheading h1 span { font-size: 2em; } .brandingcontainer .branding img { width: 7em; } .brandingcontainer .nav-item { padding: 0 0.8em; } }
 
 @media only screen and (min-width: 577px) { .straplineheading h1 { font-size: 1.5em; } .straplineheading h1 span { font-size: 2em; } .brandingcontainer .branding a { padding: 0 1em; } .brandingcontainer .branding img { width: 11em; } .brandingcontainer .nav-item { padding: 0 0.5em; } }
@@ -23,5 +25,11 @@
 .carousel-inner.splash-md img { min-height: 200px; max-height: 200px; }
 
 .straplineheading h1 span { display: block; font-weight: lighter; }
+
+.hscrollingcard { overflow: scroll; }
+
+.hscrollingcard .card:first-of-type { margin-left: 9em; }
+
+.hscrollingcard .card-body { min-height: 300px; min-width: 300px; margin-right: 5px; }
 
 /*# sourceMappingURL=style.css.map */
