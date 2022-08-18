@@ -40,6 +40,11 @@ html:not([data-scroll='0']) .maintopnav {
 
     @media only screen and (min-width: 577px) {
         .branding {
+            
+            a {
+                padding: 0 1em;
+            }
+
             img {
                 width: 11em;
             }
@@ -52,6 +57,11 @@ html:not([data-scroll='0']) .maintopnav {
 
     @media only screen and (min-width: 768px) {
         .branding {
+
+            a {
+                padding: 0 2em;
+            }
+
             img {
                 width: 15em;
             }

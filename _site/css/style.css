@@ -12,9 +12,9 @@
 
 @media only screen and (max-width: 576px) { .brandingcontainer .branding img { width: 7em; } .brandingcontainer .nav-item { padding: 0 0.8em; } }
 
-@media only screen and (min-width: 577px) { .brandingcontainer .branding img { width: 11em; } .brandingcontainer .nav-item { padding: 0 0.5em; } }
+@media only screen and (min-width: 577px) { .brandingcontainer .branding a { padding: 0 1em; } .brandingcontainer .branding img { width: 11em; } .brandingcontainer .nav-item { padding: 0 0.5em; } }
 
-@media only screen and (min-width: 768px) { .brandingcontainer .branding img { width: 15em; } .brandingcontainer .nav-item { padding: 0 1em; } }
+@media only screen and (min-width: 768px) { .brandingcontainer .branding a { padding: 0 2em; } .brandingcontainer .branding img { width: 15em; } .brandingcontainer .nav-item { padding: 0 1em; } }
 
 .carousel-inner img { object-fit: cover; }
 
