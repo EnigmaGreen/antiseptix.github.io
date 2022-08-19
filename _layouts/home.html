@@ -55,8 +55,8 @@ layout: root
         <h2 class="fw-lighter p-3 p-sm-3 p-md-3 mx-sm-3 mx-md-5">Certified Effectiveness</h2>
         <div class="row px-5">
             {% assign sorted_applications = site.pages | where:"type", "effectiveness" | sort: "sort" %}
-            {% for p in sorted_applications %}
-                <div class="col-12 col-sm-6 col-lg-6 mb-3 smartbuttons">
+            {% for p in sorted_applications limit: 4 %}
+                <div class="col-12 col-sm-6 col-lg-3 mb-3 smartbuttons">
                     <div class="card card-body bg-dark">
                         <a href="{{ site.baseurl }}{{ p.url }}" class="text-light">
                             <img src="{{ p.thumbnail }}" class="card-img" alt="...">
