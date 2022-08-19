@@ -54,18 +54,17 @@ layout: root
     <div class="container py-1 py-sm-3 py-md-5 g-0 text-center vcardcontainer">
         <h2 class="fw-lighter p-3 p-sm-3 p-md-3 mx-sm-3 mx-md-5">Certified Effectiveness</h2>
         <div class="row px-5">
-            <div class="col-12 col-sm-6 col-lg-3 mb-3">
-                <div class="card card-body p-5">Card</div>
-            </div>
-            <div class="col-12 col-sm-6 col-lg-3 mb-3">
-                <div class="card card-body p-5">Card</div>
-            </div>
-            <div class="col-12 col-sm-6 col-lg-3 mb-3">
-                <div class="card card-body p-5">Card</div>
-            </div>
-            <div class="col-12 col-sm-6 col-lg-3 mb-3">
-                <div class="card card-body p-5">Card</div>
-            </div>
+            {% assign sorted_applications = site.pages | where:"type", "effectiveness" | sort: "sort" %}
+            {% for p in sorted_applications %}
+                <div class="col-12 col-sm-6 col-lg-6 mb-3 smartbuttons">
+                    <div class="card card-body bg-dark">
+                        <a href="{{ site.baseurl }}{{ p.url }}" class="text-light">
+                            <img src="{{ p.thumbnail }}" class="card-img" alt="...">
+                            <div class="card-img-overlay"><h5 class="card-title fs-5">{{p.title}}</h5></div>
+                        </a>
+                    </div>
+                </div>                
+            {% endfor %}
         </div>   
     </div>
 
