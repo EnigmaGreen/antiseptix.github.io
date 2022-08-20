@@ -1,5 +1,15 @@
 ---
 ---
+h1{
+    font-weight: lighter;
+}
+
+.straplineheading {
+    h1{
+        font-weight: normal;
+    }
+}
+
 .bg-green {
     background: linear-gradient(to bottom, rgb(0, 62, 0), green);
 }
@@ -14,6 +24,13 @@ bg-white {
 
 @media only screen and (max-width: 576px) {
     .carousel-inner.splash-lg {
+        img {
+            min-height: 300px;
+            max-height: 300px;    
+        }
+    }
+
+    .splash-md {
         img {
             min-height: 300px;
             max-height: 300px;    
@@ -85,6 +102,12 @@ bg-white {
             max-height: 300px;    
         }
     }
+    .splash-md {
+        img {
+            min-height: 300px;
+            max-height: 300px;    
+        }
+    }
 
     .straplineheading {
         h1 {
@@ -150,6 +173,12 @@ bg-white {
 
 @media only screen and (min-width: 768px) {
     .carousel-inner.splash-lg {
+        img {
+            min-height: 500px;
+            max-height: 500px;    
+        }
+    }
+    .splash-md {
         img {
             min-height: 500px;
             max-height: 500px;    
@@ -251,10 +280,9 @@ html:not([data-scroll='0']) .maintopnav {
     }
 }
 
-.carousel-inner.splash-md {
+.splash-md {
     img {
-        min-height: 200px;
-        max-height: 200px;    
+        object-fit: cover;
     }
 }
 
