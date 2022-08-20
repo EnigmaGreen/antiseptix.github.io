@@ -1,0 +1,13 @@
+---
+layout: default
+type: homesplash
+sort: 2
+title: Personal Hygiene
+homesplashthumbnail: /images/hs.jpeg
+---
+{{page.title}}
+
+{% assign sorted_pages = site.pages | where:"type", "personalhygiene" | sort: "sort" %}
+{% for p in sorted_pages %}
+{% include button.html innerpage=p %}
+{% endfor %}

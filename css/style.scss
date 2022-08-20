@@ -8,6 +8,10 @@
     background: linear-gradient(to bottom, rgb(6, 40, 91), black);
 }
 
+bg-white {
+    background-color: white;
+}
+
 @media only screen and (max-width: 576px) {
     .carousel-inner.splash-lg {
         img {
@@ -51,7 +55,20 @@
         }
     }
 
-    
+    .homesplash {
+        .homesplashlink {
+            h2 {
+                font-size: 1em;
+                width: 120px;
+            }
+
+            img {
+                width: initial;
+                max-height: 120px;
+                text-align: right;
+            }
+        }
+    }
 }
 
 @media only screen and (min-width: 577px) {
@@ -107,6 +124,21 @@
             height: 100%;
         }
     }
+
+    .homesplash {
+        .homesplashlink {
+            h2 {
+                font-size: 1em;
+                width: 120px;
+            }
+
+            img {
+                width: initial;
+                max-height: 150px;
+                text-align: right;
+            }
+        }
+    }
 }
 
 @media only screen and (min-width: 768px) {
@@ -160,6 +192,21 @@
         max-height: 200px;
         .card {
             height: 100%;
+        }
+    }
+
+    .homesplash {
+        .homesplashlink {
+            h2 {
+                font-size: 1.5em;
+                width: initial;
+            }
+
+            img {
+                width: initial;
+                max-height: 200px;
+                text-align: right;
+            }
         }
     }
 }
