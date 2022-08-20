@@ -93,6 +93,16 @@ bg-white {
             }
         }
     }
+
+    .proad {
+        h1 {
+            font-size: 1em;
+
+            span {
+                font-size: 2em;
+            }
+        }
+    }
 }
 
 @media only screen and (min-width: 577px) {
@@ -166,6 +176,16 @@ bg-white {
                 width: initial;
                 max-height: 150px;
                 text-align: right;
+            }
+        }
+    }
+
+    .proad {
+        h1 {
+            font-size: 1rem;
+
+            span {
+                font-size: 2em;
             }
         }
     }
@@ -245,6 +265,16 @@ bg-white {
             }
         }
     }
+
+    .proad {
+        h1 {
+            font-size: 1rem;
+
+            span {
+                font-size: 2em;
+            }
+        }
+    }
 }
 
 .maintopnav {
@@ -287,6 +317,17 @@ html:not([data-scroll='0']) .maintopnav {
 }
 
 .straplineheading {
+    h1 {
+        span {
+            display: block;
+            font-weight: lighter;
+        }    
+    }
+}
+
+.proad {
+    background: linear-gradient(to right, rgba(0,0,0,1), rgba(0,0,0,0));
+
     h1 {
         span {
             display: block;
