@@ -57,10 +57,10 @@ layout: root
         {% endfor %}
     </div>
 </div>
-<div class="container-fluid bg-light pt-3 pb-5">
-    <div class="container py-1 py-sm-3 py-md-5 g-0 text-center vcardcontainer">
-        <h2 class="fw-lighter p-3 p-sm-3 p-md-3 mx-sm-3 mx-md-5">Certified Effectiveness</h2>
-        <div class="row px-sm-5">
+<div class="container-fluid bg-light pb-1 pt-sm-3 pb-sm-5">
+    <div class="container py-1 py-sm-3 g-0 text-center vcardcontainer">
+        <h2 class="fw-lighter p-3 p-sm-3 mx-sm-3">Certified Effectiveness</h2>
+        <div class="row pt-sm-3 px-3 px-sm-5">
             {% assign sorted_applications = site.pages | where:"type", "effectiveness" | sort: "sort" %}
             {% for p in sorted_applications limit: 4 %}
                 <div class="col-6 col-sm-6 col-lg-3 mb-3 smartbuttons">
