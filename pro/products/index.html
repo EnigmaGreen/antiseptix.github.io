@@ -1,0 +1,13 @@
+---
+layout: defaultpro
+type: 
+typepro: navleft
+sort: 1
+title: Products
+---
+{{page.title}}
+
+{% assign sorted_pages = site.pages | where:"typepro", "products" | sort: "sort" %}
+{% for p in sorted_pages %}
+{% include button.html innerpage=p %}
+{% endfor %}
