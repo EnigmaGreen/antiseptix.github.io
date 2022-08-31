@@ -11,7 +11,7 @@
 <div class="container d-block d-sm-none py-3 text-center"  style="margin-top: -2rem;">
   <div class="btn-group col-6">
     <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-      Category
+      {{page.title}}
     </button>
     <ul class="dropdown-menu">
       {% assign sorted_pages = site.pages | where:"type", "homecare" | sort: "sort" %}

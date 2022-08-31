@@ -8,6 +8,8 @@ h1 { font-weight: lighter; }
 
 .bg-lightblue { background: #66bccd; }
 
+.bg-logo { background: linear-gradient(to bottom, #68e3eb, #49bbe4, #408dda); }
+
 bg-white { background-color: white; }
 
 @media only screen and (max-width: 576px) { .carousel-inner.splash-lg img { min-height: 300px; max-height: 300px; } .splash-md img { min-height: 300px; max-height: 300px; } .straplineheading h1 { font-size: 1em; } .straplineheading h1 span { font-size: 2em; } .brandingcontainer .branding img { width: 7em; } .brandingcontainer .nav-item { padding: 0 0.8em; } .hscrollingcard .card:first-of-type { margin-left: 4em; } .hscrollingcard .card-body { min-height: 200px; min-width: 200px; margin-right: 5px; } .smartbuttons { max-height: 200px; } .smartbuttons .card { height: 100%; } .homesplash .homesplashlink h2 { font-size: 0.8em; } .homesplash .homesplashlink h3 { font-size: 1em; } .homesplash .homesplashlink img { width: initial; max-height: 120px; text-align: right; } .proad h1 { font-size: 1em; } .proad h1 span { font-size: 2em; } }
