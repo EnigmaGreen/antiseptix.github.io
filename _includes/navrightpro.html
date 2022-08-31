@@ -1,0 +1,6 @@
+{% assign sorted_pages = site.pages | where:"typepro", "navright" | sort: "sort" %}
+{% for p in sorted_pages %}
+<li class="nav-item {{p.css}}">
+  <a class="nav-link" href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+</li>
+{% endfor %}
