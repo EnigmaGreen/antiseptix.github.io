@@ -8,8 +8,3 @@ thumbnail: https://images.unsplash.com/photo-1508873696983-2dfd5898f08b?ixlib=rb
 ---
 
 # {{page.title}}
-
-{% assign sorted_pages = site.pages | where:"type", "personalhygiene" | sort: "sort" %}
-{% for p in sorted_pages %}
-{% include button.html innerpage=p %}
-{% endfor %}
