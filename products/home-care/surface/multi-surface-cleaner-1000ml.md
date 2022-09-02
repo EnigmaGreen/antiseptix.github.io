@@ -1,6 +1,8 @@
 ---
 layout: details
-type: Surface
+type: Products
+subtype1: Home Care
+subtype2: Surface
 sort: 1
 title: Multi Surface cleaner 750ml
 thumbnail: https://www.dettol.co.uk/static/10418e2a2bbac9bfaa5a55453cdfa702/9a1a1/weiwxxrzc6rldhgvrrqj.webp

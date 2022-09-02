@@ -1,6 +1,8 @@
 ---
 layout: details
-type: Surface
+type: Products
+subtype1: Home Care
+subtype2: Surface
 sort: 1
 title: Multi Surface cleaner 750ml
 thumbnail: https://cdn11.bigcommerce.com/s-evy5wg6u1j/images/stencil/1280x1280/products/590/1498/Dettol_50ml__94187.1591897472.jpg?c=2

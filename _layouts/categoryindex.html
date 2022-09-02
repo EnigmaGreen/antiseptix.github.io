@@ -24,4 +24,37 @@ layout: root
     </div>
     {% endfor %}
   </div>
+
+  <div class="row categoryindexbuttons">
+    {% assign sorted_applications = site.pages | where:"subtype1", page.title | sort: "sort" %}
+    {% for p in sorted_applications %}
+    <div class="col-12 col-sm-6 col-lg-4">
+      <a class="text-decoration-none fw-bold text-dark p-3" href="{{ site.baseurl }}{{ p.url }}">
+        <div class="p-0 col-12 text-center">
+          <img src="{{p.thumbnail}}" />
+        </div>
+        <div class="pt-3 pb-3 col-12 text-center">
+          {{p.title}}
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="row categoryindexbuttons">
+    {% assign sorted_applications = site.pages | where:"subtype2", page.title | sort: "sort" %}
+    {% for p in sorted_applications %}
+    <div class="col-12 col-sm-6 col-lg-4">
+      <a class="text-decoration-none fw-bold text-dark p-3" href="{{ site.baseurl }}{{ p.url }}">
+        <div class="p-0 col-12 text-center">
+          <img src="{{p.thumbnail}}" />
+        </div>
+        <div class="pt-3 pb-3 col-12 text-center">
+          {{p.title}}
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+
 </div>

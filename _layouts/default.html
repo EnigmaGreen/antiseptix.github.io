@@ -6,7 +6,9 @@ layout: root
 </div>
 
 <div class="container p-5 centeredcontent justify-content-center">
+  {% if page.breadcumbs != false %}
   {% include breadcrumbs.html %}
-
+  {% endif %}
+  
   {{content}}
 </div>
