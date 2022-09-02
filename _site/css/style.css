@@ -1,5 +1,7 @@
 h1 { font-weight: lighter; }
 
+h2 { font-weight: lighter; }
+
 .straplineheading h1 { font-weight: normal; }
 
 .bg-green { background: linear-gradient(to bottom, #003e00, green); }

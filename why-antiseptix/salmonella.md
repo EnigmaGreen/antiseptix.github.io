@@ -1,8 +1,8 @@
 ---
-layout: details
-type: effectiveness
+layout: default
+type: why-antiSeptix
 sort: 1
 title: Salmonella
 thumbnail: https://images.unsplash.com/photo-1582034986517-30d163aa1da9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80
 ---
-Effectiveness page 1
+# {{page.title}}
