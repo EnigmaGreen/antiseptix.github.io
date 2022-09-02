@@ -7,8 +7,21 @@ layout: root
 {% include categoryindextabs.html %}
 
 <div class="container p-sm-5 centeredcontent justify-content-center">
-  {% include breadcrumbs.html %}
-
-  
   {{content}}
+
+  <div class="row categoryindexbuttons">
+    {% assign sorted_applications = site.pages | where:"type", page.title | sort: "sort" %}
+    {% for p in sorted_applications %}
+    <div class="col-12 col-sm-6 col-lg-4">
+      <a class="text-decoration-none fw-bold text-dark  p-5" href="{{ site.baseurl }}{{ p.url }}">
+        <div class="p-1 col-12 text-center">
+          <img src="{{p.thumbnail}}" />
+        </div>
+        <div class="p-1 col-12 text-center">
+          {{p.title}}
+        </div>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
 </div>
