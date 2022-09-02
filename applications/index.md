@@ -9,7 +9,7 @@ css: navspecialright
 ---
 # {{page.title}}
 
-<div class="container py-3 g-sm-0">
+<div class="container py-3 g-sm-0 subcardssections">
     <div class="row">
         {% assign sorted_applications = site.pages | where:"type", "applications" | sort: "sort" %}
         {% for p in sorted_applications %}

@@ -68,7 +68,7 @@ layout: root
     <div class="container py-1 py-sm-3 g-0 text-center vcardcontainer">
         <h2 class="fw-lighter p-3 p-sm-3 mx-sm-3">Certified Effectiveness</h2>
         <div class="row pt-sm-3 px-3 px-sm-5">
-            {% assign sorted_applications = site.pages | where:"type", "effectiveness" | sort: "sort" %}
+            {% assign sorted_applications = site.pages | where:"type", "why-antiseptix" | sort: "sort" %}
             {% for p in sorted_applications limit: 4 %}
                 <div class="col-6 col-sm-6 col-lg-3 mb-3 smartbuttons">
                     <div class="card card-body bg-dark">
@@ -84,24 +84,7 @@ layout: root
 
 </div>
 
-<div class="container-fluid proad">
-    <div class="container py-5 p-sm-5">
-        <div class="row">
-            <div class="col-12 col-sm-8 col-lg-10">
-                <div class="text-light">
-                    <h1><span>AntiSeptix <strong>PRO</strong></span> Industrial. Commercial. Professional.</h1>
-                </div>
-                <div class="d-block d-sm-none p-5">
-                    <img src="{{ site.baseurl }}/images/prohomeimg.png" class="card-img" alt="...">
-                </div>
-                <a href="{{ site.baseurl }}/pro/" class="btn btn-primary mt-3 mb-1 col-12 col-md-4" role="button">More Info</a>            
-            </div>
-            <div class="col-12 col-sm-4 col-lg-2 d-none d-sm-block">
-                <img src="{{ site.baseurl }}/images/prohomeimg.png" class="card-img" alt="...">
-            </div>
-        </div>
-    </div>
-</div>
+
 
 
 {{content}}
