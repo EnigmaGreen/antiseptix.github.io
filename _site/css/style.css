@@ -76,4 +76,6 @@ bg-white { background-color: white; }
 
 .subcardssections img { max-height: 200px; min-width: 100%; object-fit: cover; max-width: 100%; min-height: 200px; }
 
+.subcardssectionsscaledown img { max-height: 200px; min-width: 100%; object-fit: scale-down; max-width: 100%; min-height: 200px; padding: 1rem; }
+
 /*# sourceMappingURL=style.css.map */

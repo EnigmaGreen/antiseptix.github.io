@@ -6,7 +6,9 @@ layout: rootpro
 </div>
 
 <div class="container p-5 centeredcontent justify-content-center">
+  {% if page.breadcrumbs != false %}
   {% include breadcrumbs.html %}
+  {% endif %}
 
   {{content}}
 </div>

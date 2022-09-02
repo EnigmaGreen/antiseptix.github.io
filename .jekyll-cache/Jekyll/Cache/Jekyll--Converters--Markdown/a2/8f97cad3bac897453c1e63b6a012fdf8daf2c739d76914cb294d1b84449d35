@@ -1,0 +1,43 @@
+I"›<h1 id="products">Products</h1>
+
+<div class="container py-3 g-sm-0 subcardssectionsscaledown">
+    <div class="row">
+        
+        
+            <div class="col-12 col-sm-6 col-md-4 py-3">
+                <div class="card">
+                    <a href="/antiseptix.github.io/products/home-care/surface/multi-surface-cleaner-1000ml.html" class="text-decoration-none fw-bold text-dark">
+                        <img src="https://cdn11.bigcommerce.com/s-evy5wg6u1j/images/stencil/1280x1280/products/590/1498/Dettol_50ml__94187.1591897472.jpg?c=2" class="card-img-top" alt="..." />
+                        <div class="card-body text-center">
+                        <p class="card-text">Multi Surface cleaner 750ml</p>
+                        </div>
+                    </a>
+                  </div>
+        </div>
+        
+            <div class="col-12 col-sm-6 col-md-4 py-3">
+                <div class="card">
+                    <a href="/antiseptix.github.io/pro/products/multi-surface-cleaner-750ml.html" class="text-decoration-none fw-bold text-dark">
+                        <img src="https://cdn11.bigcommerce.com/s-evy5wg6u1j/images/stencil/1280x1280/products/590/1498/Dettol_50ml__94187.1591897472.jpg?c=2" class="card-img-top" alt="..." />
+                        <div class="card-body text-center">
+                        <p class="card-text">Multi Surface cleaner 750ml</p>
+                        </div>
+                    </a>
+                  </div>
+        </div>
+        
+            <div class="col-12 col-sm-6 col-md-4 py-3">
+                <div class="card">
+                    <a href="/antiseptix.github.io/products/home-care/surface/multi-surface-cleaner-750ml.html" class="text-decoration-none fw-bold text-dark">
+                        <img src="https://cdn11.bigcommerce.com/s-evy5wg6u1j/images/stencil/1280x1280/products/590/1498/Dettol_50ml__94187.1591897472.jpg?c=2" class="card-img-top" alt="..." />
+                        <div class="card-body text-center">
+                        <p class="card-text">Multi Surface cleaner 750ml</p>
+                        </div>
+                    </a>
+                  </div>
+        </div>
+        
+    </div>
+    
+</div>
+:ET

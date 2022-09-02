@@ -16,33 +16,35 @@ layout: rootpro
         </div>
       </div>
 </div>
+
+
 <div class="container-fluid g-0 bg-light pt-5 pb-0">
     <div class="container text-dark text-center straplineheading">
         <h1>Industrial. Commercial. Professional. <span>Pro Antiseptic Sanitiser</span></h1>
     </div>
 
-    <div class="container homesplash px-lg-5">
-        <div class="row mt-5 mx-3 mx-sm-5 mx-md-5 mx-lg-5">
-            {% assign sorted_applications = site.pages | where:"type", "homesplashpro" | sort: "sort" %}
-            {% for p in sorted_applications %}
-                <div class="col-6 bg-white py-3 py-lg-5 shadow-lg">
-                    <a href="{{ site.baseurl }}{{ p.url }}" class="homesplashlink text-decoration-none text-dark row">
-                        <div class="col-12 text-center">
-                            <h2 class="fw-light">Products</h2>
-                            <h3 class="text-nowrap">{{p.title}}</h3>
-                        </div>
-                        <div class="col-12 text-center">
-                            <img src="{{ site.baseurl }}{{p.homesplashthumbnail}}" alt="{{p.title}}"/>
-                        </div>
-                        <div class="col-12 text-center px-sm-5">
-                            <div class="col-12 px-sm-3 px-md-5">
-                                <span class="btn btn-primary mt-3 col-12" role="button">More Info</span>
-                            </div>
+
+<div class="container py-3 g-sm-0 subcardssectionsscaledown">
+    <div class="row">
+        {% assign sorted_applications = site.pages | where:"typepro", "Products" | sort: "sort" %}
+        {% for p in sorted_applications %}
+            <div class="col-12 col-sm-6 col-md-4 py-3">
+                <div class="card">
+                    <a href="{{ site.baseurl }}{{ p.url }}" class="text-decoration-none fw-bold text-dark">
+                        <img src="{{ p.thumbnail }}" class="card-img-top" alt="...">
+                        <div class="card-body text-center">
+                        <p class="card-text">{{p.title}}</p>
                         </div>
                     </a>
-                </div>
-            {% endfor %}
+                  </div>
         </div>
+        {% endfor %}
+    </div>
+    
+</div>
+
+    <div class="container homesplash px-lg-5">
+        
         <div class="row">
             <div class="col pt-5 pb-3" style="background-image: radial-gradient(rgba(0, 0, 0, 0.41), rgba(0, 0, 0, 0), rgba(0, 0, 0, 0));">
             </div>
