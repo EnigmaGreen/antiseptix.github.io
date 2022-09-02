@@ -436,6 +436,10 @@ html:not([data-scroll='0']) .maintopnav {
 
         img {
             max-height: 200px;
+            min-width: 100%;
+            object-fit: scale-down;
+            max-width: 100%;
+            min-height: 200px;
         }    
     }
 
