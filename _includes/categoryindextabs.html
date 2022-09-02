@@ -6,7 +6,7 @@
 {% else %}
 {% assign pagetype= page.type %}
 {% endif %}
-<div class="container-fluid text-center d-none d-sm-block py-3 categoryindextabs" style="margin-top: -2rem;">
+<div class="container-fluid text-center d-none d-md-block py-3 categoryindextabs" style="margin-top: -2rem;">
   <div class="btn-group">
     {% assign sorted_pages = site.pages | where:"type", pagetype | sort: "sort" %}
     {% for p in sorted_pages %}
@@ -35,7 +35,7 @@
 {% else %}
 {% assign pagetype= page.type %}
 {% endif %}
-<div class="container d-block d-sm-none py-3 text-center"  style="margin-top: -2rem;">
+<div class="container d-block d-md-none py-3 text-center"  style="margin-top: -2rem;">
   <div class="btn-group col-6">
     <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
       {{page.title}}
