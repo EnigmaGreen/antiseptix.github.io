@@ -1,0 +1,35 @@
+---
+layout: rootpro
+---
+<div class="container-fluid g-0 splash-md">
+  <img src="{{page.thumbnail}}" class="d-block w-100" alt="...">
+</div>
+
+<div class="container p-5 centeredcontent justify-content-center">
+  {% if page.breadcrumbs != false %}
+  {% include breadcrumbs.html %}
+  {% endif %}
+
+  {{content}}
+
+  <div class="container py-3 g-sm-0 subcardssectionsscaledown">
+    <div class="row">
+        {% assign sorted_applications = site.pages | where:"typepro", "Products" | sort: "sort" %}
+        {% for p in sorted_applications %}
+            <div class="col-12 col-sm-6 col-md-4 py-3">
+                <div class="card">
+                    <a href="{{ site.baseurl }}{{ p.url }}" class="text-decoration-none fw-bold text-dark">
+                        <img src="{{ p.thumbnail }}" class="card-img-top" alt="...">
+                        <div class="card-body text-center">
+                        <p class="card-text">{{p.title}}</p>
+                        </div>
+                    </a>
+                  </div>
+        </div>
+        {% endfor %}
+    </div>
+    
+</div>
+
+
+</div>
