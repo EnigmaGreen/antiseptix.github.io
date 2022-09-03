@@ -6,11 +6,11 @@
 {% else %}
 {% assign pagetype= page.type %}
 {% endif %}
-<div class="container-fluid text-center d-none d-md-block py-3 categoryindextabs" style="margin-top: -2rem;">
+<div class="container-fluid text-center d-none d-md-block py-3 categoryindextabs" style="margin-top: -2rem;" id="showitems">
   <div class="btn-group">
     {% assign sorted_pages = site.pages | where:"type", pagetype | sort: "sort" %}
     {% for p in sorted_pages %}
-    <a href="{{ site.baseurl }}{{ p.url }}" class="fs-6 px-sm-4 btn btn-primary {% if p.url == page.url %}active{% endif %}">{{p.title}}</a>
+    <a href="{{ site.baseurl }}{{ p.url }}#showitems" class="fs-6 px-sm-4 btn btn-primary {% if p.url == page.url %}active{% endif %}">{{p.title}}</a>
     {% endfor %}
 
     {% if page.showallcategoryindextabs == true %}
@@ -18,7 +18,7 @@
 
     {% assign sorted_pages = site.pages | where:"type", pagetype | sort: "sort" %}
     {% for p in sorted_pages %}
-    <a href="{{ site.baseurl }}{{ p.url }}" class="fs-6 px-sm-4 btn btn-primary {% if p.url == page.url %}active{% endif %}">{{p.title}}</a>
+    <a href="{{ site.baseurl }}{{ p.url }}#showitems" class="fs-6 px-sm-4 btn btn-primary {% if p.url == page.url %}active{% endif %}">{{p.title}}</a>
     {% endfor %}
 
     {% endif %}
@@ -35,7 +35,7 @@
 {% else %}
 {% assign pagetype= page.type %}
 {% endif %}
-<div class="container d-block d-md-none py-3 text-center"  style="margin-top: -2rem;">
+<div class="container d-block d-md-none py-3 text-center"  style="margin-top: -2rem;" id="showitemsmobile">
   <div class="btn-group col-6">
     <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
       {{page.title}}
@@ -43,7 +43,7 @@
     <ul class="dropdown-menu">
       {% assign sorted_pages = site.pages | where:"type", pagetype | sort: "sort" %}
       {% for p in sorted_pages %}
-      <li><a class="dropdown-item" href="{{ site.baseurl }}{{ p.url }}">{{p.title}}</a></li>
+      <li><a class="dropdown-item" href="{{ site.baseurl }}{{ p.url }}#showitemsmobile">{{p.title}}</a></li>
       {% endfor %}
 
       {% if page.showallcategoryindextabs == true %}
@@ -51,7 +51,7 @@
 
       {% assign sorted_pages = site.pages | where:"type", pagetype | sort: "sort" %}
       {% for p in sorted_pages %}
-      <li><a class="dropdown-item" href="{{ site.baseurl }}{{ p.url }}">{{p.title}}</a></li>
+      <li><a class="dropdown-item" href="{{ site.baseurl }}{{ p.url }}#showitemsmobile">{{p.title}}</a></li>
       {% endfor %}
 
       {% endif %}
