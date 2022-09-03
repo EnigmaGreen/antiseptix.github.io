@@ -1,8 +1,8 @@
 ---
 layout: detailspro
 typepro: Products
-subtype1: Home Care
-subtype2: Antiseptic
+subtypepro1: Home Care
+subtypepro2: Antiseptic
 sort: 1
 title: Antiseptic
 subtitle: Simple, fast and effective

@@ -1,8 +1,8 @@
 ---
 layout: detailspro
 typepro: Products
-subtype1: Home Care
-subtype2: Hand Sanitizer
+subtypepro1: Home Care
+subtypepro2: Hand Sanitizer
 sort: 1
 title: Hand Sanitizer
 subtitle: Simple, fast and effective

@@ -1,8 +1,8 @@
 ---
 layout: detailspro
 typepro: Products
-subtype1: Home Care
-subtype2: Bathroom Clearner
+subtypepro1: Home Care
+subtypepro2: Bathroom Clearner
 sort: 1
 title: Bathroom Cleaner
 subtitle: Simple, fast and effective

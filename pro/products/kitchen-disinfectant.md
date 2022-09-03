@@ -1,8 +1,8 @@
 ---
 layout: detailspro
 typepro: Products
-subtype1: Home Care
-subtype2: Kitchen Disinfectant
+subtypepro1: Home Care
+subtypepro2: Kitchen Disinfectant
 sort: 1
 title: Kitchen Disinfectant
 subtitle: Simple, fast and effective

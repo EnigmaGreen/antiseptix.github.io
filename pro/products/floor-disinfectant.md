@@ -1,8 +1,8 @@
 ---
 layout: detailspro
 typepro: Products
-subtype1: Home Care
-subtype2: Floor Disinfectant
+subtypepro1: Home Care
+subtypepro2: Floor Disinfectant
 sort: 1
 title: Floor Disinfectant
 subtitle: Simple, fast and effective

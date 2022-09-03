@@ -1,8 +1,8 @@
 ---
 layout: detailspro
 typepro: Products
-subtype1: Home Care
-subtype2: Surface
+subtypepro1: Home Care
+subtypepro2: Multi Surface Cleaner
 sort: 1
 title: Multi Surface Cleaner
 subtitle: Simple, fast and effective
