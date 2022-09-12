@@ -498,3 +498,10 @@ html:not([data-scroll='0']) .maintopnav {
         }
     }
 }
+
+.homebuttonspro {
+    .buttongradient {
+        background: linear-gradient(45deg, #999, transparent);
+        min-height: 21rem;
+    }
+}
