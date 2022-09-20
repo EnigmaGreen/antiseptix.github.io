@@ -503,5 +503,6 @@ html:not([data-scroll='0']) .maintopnav {
     .buttongradient {
         background: linear-gradient(45deg, #999, transparent);
         min-height: 21rem;
+        height: 100%;
     }
 }
