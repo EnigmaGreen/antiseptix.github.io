@@ -130,6 +130,16 @@ bg-white {
     .navspecialright {
         margin-left: -0.2rem;
     }
+
+    .rounded-pill-start {
+        border-top-left-radius: 5rem;
+        border-bottom-left-radius: 5rem;
+    }
+
+    .rounded-pill-end {
+        border-top-right-radius: 5rem;
+        border-bottom-right-radius: 5rem;
+    }
 }
 
 @media only screen and (min-width: 577px) {
@@ -217,6 +227,17 @@ bg-white {
             }
         }
     }
+
+    .rounded-pill-start {
+        border-top-left-radius: 10rem;
+        border-bottom-left-radius: 10rem;
+    }
+
+    .rounded-pill-end {
+        border-top-right-radius: 10rem;
+        border-bottom-right-radius: 10rem;
+    }
+
 }
 
 @media only screen and (min-width: 768px) {
@@ -303,6 +324,16 @@ bg-white {
                 font-size: 2em;
             }
         }
+    }
+
+    .rounded-pill-start {
+        border-top-left-radius: 15rem;
+        border-bottom-left-radius: 15rem;
+    }
+
+    .rounded-pill-end {
+        border-top-right-radius: 15rem;
+        border-bottom-right-radius: 15rem;
     }
 }
 
