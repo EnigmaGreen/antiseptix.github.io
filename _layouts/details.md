@@ -78,22 +78,22 @@ layout: root
 </div>
 
 
-<div class="container-fluid g-0 py-5 px-3 px-md-5">
-    <div class="container-fluid bg-light rounded-pill-start rounded-pill-end p-5">
-        <div class="accordion px-5 pb-5" id="accordionFAQs">
+<div class="container-fluid g-0 py-sm-5 px-3 px-md-5">
+    <div class="container-fluid bg-light rounded-pill-start rounded-pill-end p-sm-5">
+        <div class="accordion px-3 px-sm-5 pb-5" id="accordionFAQs">
 
-            <h2 class="text-center">FAQs</h2>
+            <h2 class="text-center pt-3 pt-sm-0 pb-sm-3">FAQs</h2>
 
             {% for i in page.faqs %}
 
-            <div class="accordion-item">
+            <div class="accordion-item border border-0 border-top border-bottom bg-transparent">
             <h2 class="accordion-header" id="heading{{forloop.index}}">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{forloop.index}}" aria-expanded="false" aria-controls="collapse{{forloop.index}}">
-                {{ i.q }}
+            <button class="accordion-button collapsed bg-transparent text-dark" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{forloop.index}}" aria-expanded="false" aria-controls="collapse{{forloop.index}}">
+                <strong>{{ i.q }}</strong>
             </button>
             </h2>
             <div id="collapse{{forloop.index}}" class="accordion-collapse collapse" aria-labelledby="heading{{forloop.index}}" data-bs-parent="#accordionExample">
-            <div class="accordion-body">
+            <div class="accordion-body p-sm-5">
                 {{ i.a }}
             </div>
             </div>
