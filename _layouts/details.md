@@ -27,7 +27,7 @@ layout: root
     </div>
 </div>
 
-<div class="container-fluid g-0 ps-3 ps-md-5">
+<div class="container-fluid g-0 ps-3 ps-md-5 py-5">
     <div class="container-fluid py-5 py-sm-3 py-md-5 bg-green text-light text-center rounded-pill-start">
         <h2>Features</h2>
         <div class="row p-5">
@@ -78,30 +78,31 @@ layout: root
 </div>
 
 
-<div class="container-fluid p-5 ">
-    <div class="accordion" id="accordionFAQs">
+<div class="container-fluid g-0 py-5 px-3 px-md-5">
+    <div class="container-fluid bg-light rounded-pill-start rounded-pill-end p-5">
+        <div class="accordion px-5 pb-5" id="accordionFAQs">
 
-        <h2 class="text-center">FAQs</h2>
+            <h2 class="text-center">FAQs</h2>
 
-        {% for i in page.faqs %}
+            {% for i in page.faqs %}
 
-        <div class="accordion-item">
-        <h2 class="accordion-header" id="heading{{forloop.index}}">
-        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{forloop.index}}" aria-expanded="false" aria-controls="collapse{{forloop.index}}">
-            {{ i.q }}
-        </button>
-        </h2>
-        <div id="collapse{{forloop.index}}" class="accordion-collapse collapse" aria-labelledby="heading{{forloop.index}}" data-bs-parent="#accordionExample">
-        <div class="accordion-body">
-            {{ i.a }}
+            <div class="accordion-item">
+            <h2 class="accordion-header" id="heading{{forloop.index}}">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{forloop.index}}" aria-expanded="false" aria-controls="collapse{{forloop.index}}">
+                {{ i.q }}
+            </button>
+            </h2>
+            <div id="collapse{{forloop.index}}" class="accordion-collapse collapse" aria-labelledby="heading{{forloop.index}}" data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                {{ i.a }}
+            </div>
+            </div>
         </div>
+        
+        {% endfor %}
+        
         </div>
     </div>
-    
-    {% endfor %}
-    
-    </div>
-
 </div>
 
 
