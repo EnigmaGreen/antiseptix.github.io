@@ -21,6 +21,15 @@ h2.text-secondary {
     color: #144a7f!important;
 }
 
+h5 {
+    font-size: 1rem;
+    margin-top: 8rem;
+}
+
+.fs-7 {
+    font-size: 0.8rem;   
+}
+
 .straplineheading {
     h1{
         font-weight: normal;
@@ -28,7 +37,7 @@ h2.text-secondary {
 }
 
 .bg-green {
-    background: linear-gradient(to bottom, rgb(0, 62, 0), green);
+    background: linear-gradient(to bottom, green, rgb(0, 62, 0));
 }
 
 .bg-black {
@@ -418,7 +427,8 @@ html:not([data-scroll='0']) .maintopnav {
 }
 
 .proad {
-    background-image: url(https://images.unsplash.com/photo-1423530990185-af7dde1155fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2000&q=80);
+    //background-image: url(https://images.unsplash.com/photo-1423530990185-af7dde1155fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2000&q=80);
+    background: linear-gradient(45deg, #333, black);
 
     h1 {
         span {

@@ -66,9 +66,9 @@ layout: root
 
 <div class="container-fluid bg-light pb-1 pt-sm-3 pb-sm-5">
     <div class="container py-1 py-sm-3 g-0 text-center vcardcontainer">
-        <h2 class="fw-lighter p-3 p-sm-3 mx-sm-3">Certified Effectiveness</h2>
+        <h2 class="fw-lighter p-3 p-sm-3 mx-sm-3">Infection Control</h2>
         <div class="row pt-sm-3 px-3 px-sm-5">
-            {% assign sorted_applications = site.pages | where:"type", "why-antiseptix" | sort: "sort" %}
+            {% assign sorted_applications = site.pages | where:"type", "infection-control" | sort: "sort" %}
             {% for p in sorted_applications limit: 4 %}
                 <div class="col-6 col-sm-6 col-lg-3 mb-3 smartbuttons">
                     <div class="card card-body bg-dark">

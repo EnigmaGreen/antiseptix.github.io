@@ -26,7 +26,7 @@ AntiSeptix replicates natural particles created by our own immune system in orde
 
 ## Antiseptic and antibacterial
 
-AntiSeptix is a natural antiseptic and antibacterial liquid solution.
+AntiSeptix is a natural antiseptic and antibacterial liquid solution. The result is a stable antiseptic and antibacterial solution that kills all types of germs on contact, without being harmful to humans or animals.
 
 
 <div class="container py-3 g-sm-0 subcardssections">
