@@ -9,11 +9,25 @@ breadcrumbs: false
 ---
 # {{page.title}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla id urna justo. Duis sem augue, varius id sapien tempor, elementum bibendum velit. Duis sodales mi eu sem faucibus congue.
+## Organic
 
-## Suspendisse faucibus mollis auctor.
+AntiSeptix is completely organic advanced antiseptic and disinfectant that kills 99.99% of bacteria and viruses, including Coronavirus.
 
-Nam in mollis quam, sit amet pretium leo. Nulla consequat, augue vitae egestas scelerisque, diam ex facilisis metus, a tincidunt dolor turpis ac sem. Proin porttitor nibh nunc, in pretium massa fermentum vitae.
+- No Alcohol
+- Works in 10 seconds
+- Organis
+- Moisturises
+- Vegan
+- Made in UK
+
+## Natural
+
+AntiSeptix replicates natural particles created by our own immune system in order to eradicate invasive organisms and fight injections.
+
+## Antiseptic and antibacterial
+
+AntiSeptix is a natural antiseptic and antibacterial liquid solution.
+
 
 <div class="container py-3 g-sm-0 subcardssections">
     <div class="row">
@@ -21,7 +35,7 @@ Nam in mollis quam, sit amet pretium leo. Nulla consequat, augue vitae egestas s
         {% for p in sorted_applications %}
             <div class="col-12 col-sm-6 col-md-4 py-3">
                 <div class="card">
-                    <a href="{{ site.baseurl }}{{ p.url }}" class="text-decoration-none fw-bold text-dark">
+                    <a old-href="{{ site.baseurl }}{{ p.url }}" class="text-decoration-none fw-bold text-dark">
                         <img src="{{ p.thumbnail }}" class="card-img-top" alt="...">
                         <div class="card-body text-center">
                         <p class="card-text">{{p.title}}</p>
@@ -34,12 +48,10 @@ Nam in mollis quam, sit amet pretium leo. Nulla consequat, augue vitae egestas s
     
 </div>
 
-## Nulla id urna justo duis sem augue
+## As well as the above, AntiSeptix is also:
 
-Integer varius eu lectus vel gravida. Suspendisse vel turpis ac metus congue lobortis. Nulla eget feugiat orci.
-
-Praesent nisi enim, vestibulum eget magna a, pulvinar cursus erat. Praesent nunc tortor, rutrum ac eros laoreet, sollicitudin malesuada elit. Nam sagittis blandit sem ac mattis. Nam eleifend enim lectus, nec condimentum neque posuere sed. Etiam consequat est eu pulvinar commodo. Praesent lacinia pulvinar finibus.
-
-## Quisque ac malesuada diam, id lobortis mi.
-
-Nulla consequat, augue vitae egestas scelerisque, diam ex facilisis metus, a tincidunt dolor turpis ac sem. Proin porttitor nibh nunc, in pretium massa fermentum vitae.
+- Highly-effective virucidal, antibacterial, sporicidal and fungicidal
+- Completely organic
+- Uses natural materials in a special manufacturing process
+- Stable solution with a long shelf life
+- Completely non-toxic - safe for adults, children and pets
