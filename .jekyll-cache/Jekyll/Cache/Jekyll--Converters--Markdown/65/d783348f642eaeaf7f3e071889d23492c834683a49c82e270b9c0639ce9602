@@ -1,0 +1,65 @@
+I"H<h1 id="applications">Applications</h1>
+
+<div class="container py-3 g-sm-0 subcardssections">
+    <div class="row">
+        
+        
+            <div class="col-12 col-sm-6 col-md-4 py-3">
+                <div class="card">
+                    <a href="/antiseptix.github.io/pro/applications/hospitality/" class="text-decoration-none fw-bold text-dark">
+                        <img src="https://images.unsplash.com/photo-1603190287605-e6ade32fa852?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1770&amp;q=80" class="card-img-top" alt="..." />
+                        <div class="card-body text-center">
+                        <p class="card-text">Cleaning and Sterilisation</p>
+                        </div>
+                    </a>
+                  </div>
+        </div>
+        
+            <div class="col-12 col-sm-6 col-md-4 py-3">
+                <div class="card">
+                    <a href="/antiseptix.github.io/pro/applications/cleaning-and-sterilisation/" class="text-decoration-none fw-bold text-dark">
+                        <img src="https://images.unsplash.com/photo-1603190287605-e6ade32fa852?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1770&amp;q=80" class="card-img-top" alt="..." />
+                        <div class="card-body text-center">
+                        <p class="card-text">Cleaning and Sterilisation</p>
+                        </div>
+                    </a>
+                  </div>
+        </div>
+        
+            <div class="col-12 col-sm-6 col-md-4 py-3">
+                <div class="card">
+                    <a href="/antiseptix.github.io/pro/applications/professional/" class="text-decoration-none fw-bold text-dark">
+                        <img src="https://images.unsplash.com/photo-1562322140-8baeececf3df?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1769&amp;q=80" class="card-img-top" alt="..." />
+                        <div class="card-body text-center">
+                        <p class="card-text">Professional</p>
+                        </div>
+                    </a>
+                  </div>
+        </div>
+        
+            <div class="col-12 col-sm-6 col-md-4 py-3">
+                <div class="card">
+                    <a href="/antiseptix.github.io/pro/applications/office/" class="text-decoration-none fw-bold text-dark">
+                        <img src="https://images.unsplash.com/photo-1603201667141-5a2d4c673378?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1796&amp;q=80" class="card-img-top" alt="..." />
+                        <div class="card-body text-center">
+                        <p class="card-text">Office</p>
+                        </div>
+                    </a>
+                  </div>
+        </div>
+        
+            <div class="col-12 col-sm-6 col-md-4 py-3">
+                <div class="card">
+                    <a href="/antiseptix.github.io/pro/applications/sports/" class="text-decoration-none fw-bold text-dark">
+                        <img src="https://images.unsplash.com/photo-1522778119026-d647f0596c20?ixlib=rb-1.2.1&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=1770&amp;q=80" class="card-img-top" alt="..." />
+                        <div class="card-body text-center">
+                        <p class="card-text">Sports</p>
+                        </div>
+                    </a>
+                  </div>
+        </div>
+        
+    </div>
+    
+</div>
+:ET
