@@ -4,7 +4,7 @@ type: Products
 subtype1: Home Care
 subtype2: Floors
 sort: 1
-title: Floor Disinfectant Wipes
+title: AntiSeptix Floor Disinfectant Wipes
 subtitle: Leaves your floors freshly disinfected and de-odorised.
 description: Antiseptix Floor Disinfected boasts a DOUBLE STREGNTH formula specially developed to disinfect the grimiest floors all over your house. This formula is proven to kill 99.9% of bacteria, fungus, and virus. fresh, healthy floors for everyone at home from the baby crawler to the 3 second rule floor eater, Antiseptix Floor Disinfectant has got you covered.
 thumbnail: https://www.dettol.co.uk/static/f35b2d42b0cb1e3ef638d784b46d548d/ad85c/azss6bhqtfbqkg9m5lk4.webp

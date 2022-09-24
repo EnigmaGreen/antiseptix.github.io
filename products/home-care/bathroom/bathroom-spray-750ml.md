@@ -4,7 +4,7 @@ type: Products
 subtype1: Home Care
 subtype2: Bathroom
 sort: 1
-title: Bathroom Disinfectant Spray
+title: AntiSeptix Bathroom Disinfectant Spray
 subtitle: Disinfects, removes soap scum, water marks, limescale and leaves your bathroom smelling fresh.
 description: This bathroom disinfectant is our fast acting, non-toxic chemical free formula kills 99.9% of bacteria* including E.coli, Streptococcus, Campylobacter and leaves no chemical residue.  with odour eliminating properties it will leave your bathroom smelling clean.
 thumbnail: https://www.dettol.co.uk/static/d913e5e35f29332d190f5dd29b68ca90/ded3b/hn9unfzfe1zkj3rb7dxy.webp

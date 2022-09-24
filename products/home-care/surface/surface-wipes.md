@@ -4,7 +4,7 @@ type: Products
 subtype1: Home Care
 subtype2: Surface
 sort: 1
-title: Multi-Surface Disinfectant Wipes
+title: AntiSeptix Multi-Surface Disinfectant Wipes
 subtitle: Disinfects your home leaving it hygienic and smelling clean 
 description: Antiseptix Multi Surface Disinfectant is a surface disinfectant spray that kills 99.9% of bacteria, fungus and viruses, including E.coli, salmonella, coronavirus, poliovirus, norovirus, monkey pox and flu. Antiseptix Multi Surface Disinfectant is a chemical free, ZERO alcohol, non-toxic, fragrance-free disinfectant that has odour eliminating properties, as well as being harmless to the skin.
 thumbnail: https://www.dettol.co.uk/static/da6e6ce238fbab7618c9bdc666614d9a/ad85c/km9bqkyhvbmnzgje7wuq.webp

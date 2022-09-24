@@ -4,7 +4,7 @@ typepro: Products
 subtypepro1: Home Care
 subtypepro2: Bathroom Clearner
 sort: 1
-title: Bathroom Cleaner
+title: AntiSeptix Bathroom Cleaner
 subtitle: Disinfects, removes soap scum, water marks, limescale and leaves your bathroom smelling fresh.
 description: This bathroom disinfectant is our fast acting, non-toxic chemical free formula kills 99.9% of bacteria* including E.coli, Streptococcus, Campylobacter and leaves no chemical residue.  with odour eliminating properties it will leave your bathroom smelling clean.
 thumbnail: https://www.dettolprome.com/assets/images/shop/dettol-skincare-liquid-hand-wash-5000ml.webp

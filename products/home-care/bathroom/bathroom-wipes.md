@@ -4,7 +4,7 @@ type: Products
 subtype1: Home Care
 subtype2: Bathroom
 sort: 1
-title: Bathroom Disinfectant Wipes
+title: AntiSeptix Bathroom Disinfectant Wipes
 subtitle: Disinfects, removes soap scum, water marks, limescale and leaves your bathroom smelling fresh.
 description: The bathroom disinfectant wipes are our fast acting, non-toxic chemical free formula kills 99.9% of bacteria* including E.coli, Streptococcus, Campylobacter and leaves no chemical residue.  with odour eliminating properties it will leave your bathroom smelling clean.
 thumbnail: https://www.dettol.co.uk/static/f3dddbb21bcb29dcc73d6bc20a3b2142/ad85c/tb0ftykukozflgzjnur8.webp

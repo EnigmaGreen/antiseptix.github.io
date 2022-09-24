@@ -4,7 +4,7 @@ typepro: Products
 subtypepro1: Home Care
 subtypepro2: Kitchen Disinfectant
 sort: 1
-title: Kitchen Disinfectant
+title: AntiSeptix Kitchen Disinfectant
 subtitle: Disinfects your kitchen leaving it hygienic and smelling clean.
 description: Antiseptix Kitchen Disinfectant disinfects all kitchen surfaces* without any chemical or alcohol residue. Kills 99.9% of bacteria* including salmonella. Once you have disinfected a surface using our non-toxic Antiseptix Kitchen Disinfectant the surface is ready for food preparation with ZERO contamination, no compromise on cleaning or health.
 thumbnail: https://www.dettolprome.com/assets/images/shop/dettol-lemon-multipurpose-floor-cleaner.webp
