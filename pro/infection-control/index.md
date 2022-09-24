@@ -33,7 +33,7 @@ Praesent porta, arcu eu tristique ornare, lectus leo volutpat dui, eget sollicit
 
 <div class="container py-3 g-sm-0 subcardssections">
     <div class="row">
-        {% assign sorted_applications = site.pages | where:"type", "infection-control" | sort: "sort" %}
+        {% assign sorted_applications = site.pages | where:"typepro", "infection-control" | sort: "sort" %}
         {% for p in sorted_applications %}
             <div class="col-12 col-sm-6 col-md-4 py-3">
                 <div class="card">
