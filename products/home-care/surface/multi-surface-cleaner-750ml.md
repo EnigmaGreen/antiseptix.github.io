@@ -10,4 +10,15 @@ description: Antiseptix Multi Surface Disinfectant is a surface disinfectant spr
 thumbnail: https://images.salsify.com/image/upload/s---up6gHtV--/dfcxsi2ekjplea4sn1e1.png
 image: https://images.salsify.com/image/upload/s---up6gHtV--/dfcxsi2ekjplea4sn1e1.png
 amazon: https://www.amazon.co.uk/Dettol-Hand-Sanitizer-Original-50ml/dp/B08HYQW9GP/ref=sr_1_4?keywords=dettol+instant+hand+sanitizer&qid=1661961971&refinements=p_76%3A419158031&rnid=419157031&rps=1&sprefix=dettol+instant+%2Caps%2C80&sr=8-4
+faqs:
+  -
+    q: Is Antiseptix Multi Surface Disinfectant suitable for me to use on my worktop?
+    a: While this can be used on a variety of worktop surfaces, for more detail, refer to the product use on the product label on the bottle.
+  -
+    q: Can Antiseptix Multi Surface Disinfectant be used on electronics?
+    a: Yes. However, spray onto a cloth first - not directly on the electronic device - before wiping.
+  -
+    q: Is Antiseptix Multi Surface Disinfectant recyclable?
+    a: Antiseptix Multi Surface Disinfectant, along with all Antiseptix products are recyclable. We urge our customers to tear off the label of the Antiseptix Multi Surface Disinfectant  bottle using the perforated peal. All components can we be recycled. A thank you in advanced for helping us recycle and save the environment.
 ---
+

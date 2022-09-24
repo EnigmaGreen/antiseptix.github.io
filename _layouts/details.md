@@ -14,8 +14,8 @@ layout: root
             <div class="d-none d-sm-block pt-5">
             {% include breadcrumbs.html %}
             </div>
-            <h1>{{page.title}}</h1>
-            <h2>{{page.subtitle}}</h2>
+            <h1 class="py-3">{{page.title}}</h1>
+            <h2 class="py-3">{{page.subtitle}}</h2>
             <p>{{page.description}}<p>
 
             {% include amazonbutton.md %}

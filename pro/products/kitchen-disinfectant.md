@@ -10,4 +10,15 @@ description: Antiseptix Kitchen Disinfectant disinfects all kitchen surfaces* wi
 thumbnail: https://www.dettolprome.com/assets/images/shop/dettol-lemon-multipurpose-floor-cleaner.webp
 image: https://www.dettolprome.com/assets/images/shop/dettol-lemon-multipurpose-floor-cleaner.webp
 amazon: https://www.amazon.co.uk/Dettol-Hand-Sanitizer-Original-50ml/dp/B08HYQW9GP/ref=sr_1_4?keywords=dettol+instant+hand+sanitizer&qid=1661961971&refinements=p_76%3A419158031&rnid=419157031&rps=1&sprefix=dettol+instant+%2Caps%2C80&sr=8-4
+faqs:
+  -
+    q: Can Antiseptix Kitchen Disinfectant be used in the bathroom?
+    a: Please refer to the product label to identify the surface types recommended. Alternatively, use our Bathroom disinfectant Spray, which is specially designed to meet your bathroom disinfection needs.
+  -
+    q: Do I need to wear gloves using Antiseptix Kitchen Disinfectant?
+    a: NO! Antiseptix Kitchen Disinfectant is non-toxic and chemical free. It is safe to use without gloves. 
+  -
+    q: How long can I use Antiseptic Kitchen Disinfectant for after opening?
+    a: We recommend that once opened Antiseptix Kitchen Disinfectant should be used within 12 months, but we are sure you will be using it way sooner. 
 ---
+
