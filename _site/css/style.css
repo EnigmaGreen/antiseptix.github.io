@@ -1,8 +1,8 @@
 .home-more-info-button { font-size: 0.8rem; }
 
-h1.text-primary { color: #408dda !important; }
+h1 { color: #408dda !important; padding: 1rem 0; }
 
-h2.text-secondary { color: #144a7f !important; }
+h2 { color: #144a7f !important; padding: 1rem 0; }
 
 h5 { font-size: 1rem; margin-top: 8rem; }
 
