@@ -10,6 +10,7 @@ description: Antiseptix Kitchen Disinfectant disinfects all kitchen surfaces* wi
 thumbnail: https://www.dettolprome.com/assets/images/shop/dettol-lemon-multipurpose-floor-cleaner.webp
 image: https://www.dettolprome.com/assets/images/shop/dettol-lemon-multipurpose-floor-cleaner.webp
 amazon: https://www.amazon.co.uk/Dettol-Hand-Sanitizer-Original-50ml/dp/B08HYQW9GP/ref=sr_1_4?keywords=dettol+instant+hand+sanitizer&qid=1661961971&refinements=p_76%3A419158031&rnid=419157031&rps=1&sprefix=dettol+instant+%2Caps%2C80&sr=8-4
+applicationpro: ["Cleaning and Sterilisation", "Hospitality", "Deodorising", "Water Treatment"]
 faqs:
   -
     q: Can Antiseptix Kitchen Disinfectant be used in the bathroom?
