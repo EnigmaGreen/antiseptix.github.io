@@ -12,23 +12,22 @@ layout: root
 
   {{content}}
 
-  <div class="container py-3 g-sm-0 subcardssectionsscaledown">
-    <div class="row">
-        {% assign sorted_applications = site.pages | where:"type", "Products" | sort: "sort" %}
-        {% for p in sorted_applications %}
-            <div class="col-12 col-sm-6 col-md-4 py-3">
-                <div class="card">
-                    <a href="{{ site.baseurl }}{{ p.url }}" class="text-decoration-none fw-bold text-dark">
-                        <img src="{{ p.thumbnail }}" class="card-img-top" alt="...">
-                        <div class="card-body text-center">
-                        <p class="card-text">{{p.title}}</p>
-                        </div>
-                    </a>
-                  </div>
-        </div>
-        {% endfor %}
-    </div>
-    
+  
+
+<div class="row categoryindexbuttons">
+  {% assign sorted_applications = site.pages | where:"type", "Products" | sort: "sort" %}
+  {% for p in sorted_applications %}
+  <div class="col-12 col-sm-6 col-lg-4">
+    <a class="text-decoration-none fw-bold text-dark p-3" href="{{ site.baseurl }}{{ p.url }}">
+      <div class="p-0 col-12 text-center">
+        <img src="{{p.thumbnail}}" />
+      </div>
+      <div class="pt-3 pb-3 col-12 text-center">
+        {{p.title}}
+      </div>
+    </a>
+  </div>
+  {% endfor %}
 </div>
 
 
