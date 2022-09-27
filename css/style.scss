@@ -184,6 +184,15 @@ h5 {
 }
 
 @media only screen and (min-width: 577px) {
+    
+    .headernavbar {
+        padding-left: 1rem;
+    }
+    
+    .headernavbarpro {
+        padding-right: 2rem;
+    }
+
     .carousel-inner.splash-lg {
         img {
             min-height: 300px;
