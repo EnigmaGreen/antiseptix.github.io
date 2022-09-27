@@ -10,6 +10,7 @@ description: Antiseptix Floor Disinfected boasts a DOUBLE STREGNTH formula speci
 thumbnail: https://www.dettol.co.uk/static/f35b2d42b0cb1e3ef638d784b46d548d/ad85c/azss6bhqtfbqkg9m5lk4.webp
 image: https://www.dettol.co.uk/static/f35b2d42b0cb1e3ef638d784b46d548d/ad85c/azss6bhqtfbqkg9m5lk4.webp
 amazon: https://www.amazon.co.uk/Dettol-Hand-Sanitizer-Original-50ml/dp/B08HYQW9GP/ref=sr_1_4?keywords=dettol+instant+hand+sanitizer&qid=1661961971&refinements=p_76%3A419158031&rnid=419157031&rps=1&sprefix=dettol+instant+%2Caps%2C80&sr=8-4
+application: ["Automotive", "Cosmetics", "Household", "Personal Care", "Pet Care", "Recreational Activities", "Travel"]
 faqs:
   -
     q: Does Antiseptix Floor Disinfectant kill Covid-19? 

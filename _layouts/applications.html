@@ -17,6 +17,7 @@ layout: root
 <div class="row categoryindexbuttons">
   {% assign sorted_applications = site.pages | where:"type", "Products" | sort: "sort" %}
   {% for p in sorted_applications %}
+  {% if p.application contains page.title %}
   <div class="col-12 col-sm-6 col-lg-4">
     <a class="text-decoration-none fw-bold text-dark p-3" href="{{ site.baseurl }}{{ p.url }}">
       <div class="p-0 col-12 text-center">
@@ -27,6 +28,7 @@ layout: root
       </div>
     </a>
   </div>
+  {% endif %}
   {% endfor %}
 </div>
 
