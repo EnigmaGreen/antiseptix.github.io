@@ -7,8 +7,8 @@ sort: 1
 title: AntiSeptix Floor Disinfectant Spray
 subtitle: Leaves your floors freshly disinfected and de-odorised.
 description: Antiseptix Floor Disinfected boasts a DOUBLE STREGNTH formula specially developed to disinfect the grimiest floors all over your house. This formula is proven to kill 99.9% of bacteria, fungus, and virus. fresh, healthy floors for everyone at home from the baby crawler to the 3 second rule floor eater, Antiseptix Floor Disinfectant has got you covered.
-thumbnail: /antiseptix.github.io/images/products/AntiSeptix_Floor-1.jpg
-image: /antiseptix.github.io/images/products/AntiSeptix_Floor-1.jpg
+thumbnail: /antiseptix.github.io/images/products/AntiSeptix_Floor-1.png
+image: /antiseptix.github.io/images/products/AntiSeptix_Floor-1.png
 amazon: https://www.amazon.co.uk/Dettol-Hand-Sanitizer-Original-50ml/dp/B08HYQW9GP/ref=sr_1_4?keywords=dettol+instant+hand+sanitizer&qid=1661961971&refinements=p_76%3A419158031&rnid=419157031&rps=1&sprefix=dettol+instant+%2Caps%2C80&sr=8-4
 application: ["Automotive", "Cosmetics", "Household", "Personal Care", "Pet Care", "Recreational Activities", "Travel"]
 faqs:

@@ -7,8 +7,8 @@ sort: 1
 title: AntiSeptix Bathroom Disinfectant Spray
 subtitle: Disinfects, removes soap scum, water marks, limescale and leaves your bathroom smelling fresh.
 description: This bathroom disinfectant is our fast acting, non-toxic chemical free formula kills 99.9% of bacteria* including E.coli, Streptococcus, Campylobacter and leaves no chemical residue.  with odour eliminating properties it will leave your bathroom smelling clean.
-thumbnail: /antiseptix.github.io/images/products/AntiSeptix_Bathroom-1.jpg
-image: /antiseptix.github.io/images/products/AntiSeptix_Bathroom-1.jpg
+thumbnail: /antiseptix.github.io/images/products/AntiSeptix_Bathroom-1.png
+image: /antiseptix.github.io/images/products/AntiSeptix_Bathroom-1.png
 amazon: https://www.amazon.co.uk/Dettol-Hand-Sanitizer-Original-50ml/dp/B08HYQW9GP/ref=sr_1_4?keywords=dettol+instant+hand+sanitizer&qid=1661961971&refinements=p_76%3A419158031&rnid=419157031&rps=1&sprefix=dettol+instant+%2Caps%2C80&sr=8-4
 application: ["Automotive", "Cosmetics", "Household", "Personal Care", "Pet Care", "Recreational Activities", "Travel"]
 faqs:
