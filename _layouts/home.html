@@ -58,6 +58,12 @@ layout: root
     </div>
 </div>
 <div class="container-fluid py-1 py-sm-3 py-md-5 g-0 bg-logo">
+    <div class="container p-5 centeredcontent justify-content-center">
+        {{content}}
+      </div>
+      
+</div>
+<div class="container-fluid py-1 py-sm-3 py-md-5 g-0 bg-logo">
     <h2 class="fw-lighter p-3 p-sm-3 p-md-3 mx-sm-3 mx-md-5">Applications</h2>
     <div class="d-flex flex-row flex-nowrap hscrollingcard pb-5 pb-sm-3 pb-md-5">
         {% assign sorted_applications = site.pages | where:"type", "applications" | sort: "sort" %}
@@ -91,9 +97,3 @@ layout: root
     </div>
 
 </div>
-
-
-
-
-{{content}}
-

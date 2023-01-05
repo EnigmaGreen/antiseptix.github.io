@@ -7,22 +7,22 @@ thumbnail: https://images.unsplash.com/photo-1582034986517-30d163aa1da9?ixlib=rb
 ---
 # {{page.title}}
 
-Praesent nisi enim, vestibulum eget magna a, pulvinar cursus erat. Praesent nunc tortor, rutrum ac eros laoreet, sollicitudin malesuada elit. Nam sagittis blandit sem ac mattis.
+Salmonella is a type of bacteria that also can be referred to as salmonellosis. It is one of the most common causes of foodborne illness, which can cause serious and life-threatening illnesses. It is found in many animals, including poultry, cattle, and rodents, as well as in some foods, including eggs, fish, and foods contaminated with animal feces.
 
-## Nam eleifend enim lectus, nec condimentum neque posuere sed
+When humans eat food or touch something that has been contaminated with Salmonella, the bacteria can be passed to humans and then enter their digestive systems. Symptoms of salmonellosis include diarrhea, fever, abdominal cramps, nausea, and vomiting. In some cases, it can lead to more serious complications such as sepsis, a type of serious infection. It’s important to note that if you have salmonella, you can also spread it to other people.
 
-Etiam consequat est eu pulvinar commodo. Praesent lacinia pulvinar finibus. Pellentesque ac tortor sapien. Proin et dui elementum, venenatis neque ut, lobortis justo
+Salmonella is most commonly found in raw or undercooked poultry, beef and pork that has been contaminated with animal feces or not cooked sufficiently. It can also be found in raw or undercooked eggs or egg products, unpasteurized dairy products, animal vivisections and raw fruits and vegetables that have been contaminated with animal feces. It’s important to note that this bacteria can live in the environment and can survive on food surfaces and in water.
 
-- Sed sit amet eros et sapien pellentesque suscipit
-  - Faucibus massa ullamcorper
-  - eget sollicitudin nulla sapien
-- Nullam in odio nec risus ultricies scelerisque
-- Quisque id maximus enim, in gravida nunc.
+To prevent salmonella infection, it’s important to practice good food safety habits such as washing hands, utensils and surfaces that have come into contact with raw meat or eggs. 
 
-Maecenas scelerisque massa massa, ut fringilla sem tincidunt quis. Sed egestas purus ac purus aliquam ullamcorper. Cras vitae enim eget nisi vestibulum imperdiet. Cras id quam tincidunt, faucibus massa ullamcorper, posuere eros. Quisque vel sodales quam.
+At the heart of good hygiene and safety practices, the prevention of food-borne illnesses such as salmonella from contaminated food requires proper sanitation and disinfection. One effective way to prevent salmonella is with a our disinfectant Antiseptix. 
 
-## Duis ac est ac massa tincidunt elementum
+HOCL is a naturally-occurring disinfectant found in our own body's white blood cells, used to fight infection. It has been approved by to combat a range of pathogens, including salmonella. Antiseptix sanitizes better than traditional sanitisers, and is safe enough to use on food contact surfaces.
 
-Sed venenatis ex ac erat varius, sed luctus elit finibus. Donec at lectus sed libero dignissim pellentesque sit amet vitae velit. Cras eget magna ac nunc aliquam commodo nec in velit.
+If you’re looking to prevent salmonella or other food-borne illnesses, here are a few things to consider when sanitising with Antiseptix. 
 
-Praesent porta, arcu eu tristique ornare, lectus leo volutpat dui, eget sollicitudin nulla sapien quis lectus. Fusce tristique, eros ut tincidunt ultrices, augue eros mattis augue, id fringilla ex est sed quam. Vestibulum in erat nec enim rhoncus lobortis.
+It's important to note that the effectiveness of Antiseptix will depend on the pH levels of the surface. Low pH surfaces, such as stainless steel and plastic, require higher concentrations of Antiseptix in order to be effective, whereas more basic surfaces like glass, porcelain and ceramic need less.
+
+When using Antiseptix for sanitizing, ensure that you read the manufacturer’s instructions thoroughly and follow them carefully. 
+
+Using Antiseptix when cleaning and sanitizing is an important step to ensuring that food contact surfaces are free of salmonella and other food-borne pathogens. When used in accordance with the manufacturer’s instructions and following proper safety protocols, it can be an effective tool in keeping your kitchen free from potentially harmful contamination.
