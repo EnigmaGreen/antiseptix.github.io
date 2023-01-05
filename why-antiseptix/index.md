@@ -35,7 +35,7 @@ AntiSeptix is a natural antiseptic and antibacterial liquid solution. The result
         {% for p in sorted_applications %}
             <div class="col-12 col-sm-6 col-md-4 py-3">
                 <div class="card">
-                    <a old-href="{{ site.baseurl }}{{ p.url }}" class="text-decoration-none fw-bold text-dark">
+                    <a href="{{ site.baseurl }}{{ p.url }}" class="text-decoration-none fw-bold text-dark">
                         <img src="{{ p.thumbnail }}" class="card-img-top" alt="...">
                         <div class="card-body text-center">
                         <p class="card-text">{{p.title}}</p>
