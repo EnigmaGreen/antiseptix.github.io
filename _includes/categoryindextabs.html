@@ -7,7 +7,7 @@
 {% assign pagetype= page.type %}
 {% endif %}
 <div class="container-fluid text-center d-none d-md-block py-3 categoryindextabs" style="margin-top: -2rem;" id="showitems">
-  <div class="btn-group">
+  <div class="btn-group product-category-menu">
     {% assign sorted_pages = site.pages | where:"type", pagetype | sort: "sort" %}
     {% for p in sorted_pages %}
     <a href="{{ site.baseurl }}{{ p.url }}#showitems" class="fs-6 px-sm-4 btn btn-primary {% if p.url == page.url %}active{% endif %}">{{p.title}}</a>
@@ -36,7 +36,7 @@
 {% assign pagetype= page.type %}
 {% endif %}
 <div class="container d-block d-md-none py-3 text-center"  style="margin-top: -2rem;" id="showitemsmobile">
-  <div class="btn-group col-6">
+  <div class="btn-group col-6 product-category-menu">
     <button type="button" class="btn btn-primary dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
       {{page.title}}
     </button>
