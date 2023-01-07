@@ -8,3 +8,8 @@ breadcrumbs: false
 showallcategoryindextabs: true
 css: navspecialleft
 ---
+# {{page.title}}
+
+Our Antiseptix products help kill harmful micro-organisms on the skin or surfaces. Whether you need to disinfect a wound, clean your hands, or sanitize your home, our selection of Antiseptix products has you covered. 
+
+Powerful. Non-Toxic. Natural.

@@ -4,7 +4,7 @@ type: why-antiseptix
 sort: 1
 title: Environmentally Friendly
 subtitle: Blah blah blah
-thumbnail: https://images.unsplash.com/photo-1505976442149-53a82393903b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80
+thumbnail: https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2213&q=80
 ---
 # {{page.title}}
 
