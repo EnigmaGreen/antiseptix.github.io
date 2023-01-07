@@ -10,6 +10,8 @@ h5 { font-size: 1rem; margin-top: 8rem; }
 
 .straplineheading h1 { font-weight: normal; }
 
+.color-blue { color: #1e488b; }
+
 .bg-green { background: linear-gradient(to bottom, green, #003e00); }
 
 .bg-black { background: linear-gradient(to bottom, #06285b, black); }
