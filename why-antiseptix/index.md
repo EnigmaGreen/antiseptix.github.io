@@ -9,24 +9,21 @@ breadcrumbs: false
 ---
 # {{page.title}}
 
-## Organic
+## Safety
 
-AntiSeptix is completely organic advanced antiseptic and disinfectant that kills 99.99% of bacteria and viruses, including Coronavirus.
+Antiseptix is non-toxic, non-irritating, and non-corrosive, making it safe for use on a wide range of surfaces and materials. It is also biodegradable, making it an environmentally friendly option.
 
-- No Alcohol
-- Works in 10 seconds
-- Organis
-- Moisturises
-- Vegan
-- Made in UK
+## Efficacy
 
-## Natural
+Antiseptix is effective at killing a wide range of microorganisms, including bacteria, viruses, fungi, and spores. It is particularly effective against gram-positive bacteria and enveloped viruses, such as influenza and coronaviruses.
 
-AntiSeptix replicates natural particles created by our own immune system in order to eradicate invasive organisms and fight injections.
+## Versatility
 
-## Antiseptic and antibacterial
+Antiseptix can be used as a surface disinfectant, applied as a hand sanitizer, or used to clean and disinfect medical instruments and equipment. It can also be used to eliminate odors, making it a useful tool for disinfecting and deodorizing restrooms and other areas where odors may be a problem.
 
-AntiSeptix is a natural antiseptic and antibacterial liquid solution. The result is a stable antiseptic and antibacterial solution that kills all types of germs on contact, without being harmful to humans or animals.
+## Convenience
+
+Antiseptix is easy to apply and leaves no residue behind, making it convenient to use in a variety of settings.
 
 
 <div class="container py-3 g-sm-0 subcardssections">
