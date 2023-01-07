@@ -45,7 +45,6 @@ AntiSeptix is a natural antiseptic and antibacterial liquid solution. The result
         </div>
         {% endfor %}
     </div>
-    
 </div>
 
 ## As well as the above, AntiSeptix is also:

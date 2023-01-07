@@ -63,6 +63,27 @@ layout: root
       </div>
       
 </div>-->
+
+<div class="container py-1 py-sm-3 py-md-5 g-0 subcardssections">
+    <h2 class="fw-lighter p-3 p-sm-3 p-md-3 mx-sm-3 mx-md-0">Learn Health</h2>
+    <div class="row">
+        {% assign sorted_applications = site.pages | where:"type", "why-antiseptix" | sort: "sort" %}
+        {% for p in sorted_applications %}
+            <div class="col-12 col-sm-6 col-md-4 py-3">
+                <div class="card">
+                    <a href="{{ site.baseurl }}{{ p.url }}" class="text-decoration-none text-dark">
+                        <img src="{{ p.thumbnail }}" class="card-img-top" alt="...">
+                        <div class="card-body text-center">
+                            <p class="card-title fw-bold">{{p.title}}</p>
+                            <p class="card-text fw-normal">{{p.subtitle}}</p>
+                        </div>
+                    </a>
+                  </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
 <div class="container-fluid py-1 py-sm-3 py-md-5 g-0 bg-logo">
     <h2 class="fw-lighter p-3 p-sm-3 p-md-3 mx-sm-3 mx-md-5">Applications</h2>
     <div class="d-flex flex-row flex-nowrap hscrollingcard pb-5 pb-sm-3 pb-md-5">

@@ -3,6 +3,7 @@ layout: default
 type: why-antiseptix
 sort: 1
 title: Pet Care
+subtitle: blah blah blah
 thumbnail: https://images.unsplash.com/photo-1660836441635-71d1ad29e8de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1626&q=80
 ---
 # {{page.title}}
