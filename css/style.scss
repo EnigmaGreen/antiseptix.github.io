@@ -38,12 +38,17 @@ h5 {
     }
 }
 
+.color-blue-b {
+    color: #408dda !important;
+}
+
 .color-blue {
-    color: #2356d7!important;
+    color: #144a7f !important;
 }
 
 .bg-green {
-    background: linear-gradient(to bottom, green, rgb(0, 62, 0));
+    //background: linear-gradient(to bottom, green, rgb(0, 62, 0));
+    background: linear-gradient(to bottom, #49b3e2, #0b3f8f);
 }
 
 .bg-black {
@@ -82,8 +87,8 @@ h5 {
 @media only screen and (max-width: 576px) {
     .carousel-inner.splash-lg {
         img {
-            min-height: 300px;
-            max-height: 300px;    
+            min-height: 600px;
+            max-height: 600px;    
         }
     }
 
@@ -199,8 +204,8 @@ h5 {
 
     .carousel-inner.splash-lg {
         img {
-            min-height: 300px;
-            max-height: 300px;    
+            min-height: 600px;
+            max-height: 600px;    
         }
     }
     .splash-md {
@@ -298,8 +303,8 @@ h5 {
 @media only screen and (min-width: 768px) {
     .carousel-inner.splash-lg {
         img {
-            min-height: 500px;
-            max-height: 500px;    
+            min-height: 600px;
+            max-height: 600px;    
         }
     }
     .splash-md {
@@ -515,14 +520,15 @@ html:not([data-scroll='0']) .maintopnav {
         color: #333;
         text-decoration: none;
         padding: 0.3em;
-        background-color: gray;
+        background-color: white;
         border-radius: 1em;
         width: 1.5em;
         text-align: center;
+        opacity: 50%;
     }
 
     .fa:hover {
-        background-color: white;
+        opacity: 100%;
     }
 }
 
