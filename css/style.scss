@@ -136,6 +136,27 @@ h5 {
         }
     }
 
+    .hscrollingcard-b {
+        .card:first-of-type{
+            margin-left: 1em;
+        }
+
+        .card {
+            img,
+            a {
+                width: 22rem;
+                height: 13rem;
+                object-fit: cover;
+            }
+        }
+
+        .card-body-b {
+            min-height: 200px;
+            min-width: 200px;
+            margin-right: 5px;
+        }
+    }
+
     .smartbuttons {
         max-height: 200px;
         .card {
@@ -256,6 +277,28 @@ h5 {
         }
     }
 
+    .hscrollingcard-b {
+        .card:first-of-type{
+            margin-left: 2em;
+        }
+
+        .card {
+            img,
+            a {
+                width: 22rem;
+                height: 13rem;
+                object-fit: cover;
+            }
+        }
+
+        .card-body-b {
+            min-height: 180px;
+            min-width: 180px;
+            margin-right: 5px;
+            margin-left: 1rem;
+        }
+    }
+
     .smartbuttons {
         max-height: 200px;
         .card {
@@ -348,6 +391,28 @@ h5 {
         }
 
         .card-body {
+            min-height: 300px;
+            min-width: 300px;
+            margin-right: 5px;
+            margin-left: 2rem;
+        }
+    }
+
+    .hscrollingcard-b {
+        .card:first-of-type{
+            margin-left: 4em;
+        }
+
+        .card {
+            img,
+            a {
+                width: 22rem;
+                height: 13rem;
+                object-fit: cover;
+            }
+        }
+
+        .card-body-b {
             min-height: 300px;
             min-width: 300px;
             margin-right: 5px;
@@ -496,6 +561,39 @@ html:not([data-scroll='0']) .maintopnav {
         }
 
         .card-title {
+            position: absolute;
+            bottom: 0;
+            
+        }
+
+        .card-img-overlay {
+            background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0), rgba(0, 0, 0, 1));
+        }
+    }
+}
+
+.hscrollingcard-b {
+    overflow: scroll;
+    padding-bottom: 5rem!important;
+
+    .card {
+        
+        img{
+            border-radius: 0rem 1rem 0rem 1rem;
+        }
+    }
+
+    .card-b {
+        padding: 0;
+
+        img,
+        a {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .card-title-b {
             position: absolute;
             bottom: 0;
             
