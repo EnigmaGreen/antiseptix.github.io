@@ -213,8 +213,24 @@ h5 {
     }
 
     #homecarousel {
+        .productimageparagraph {
+            text-align: center;
+        }
+
         .productimage {
-            width: 6rem;
+            width: 7rem;
+        }
+
+        .productdetails {
+            text-align: center!important;
+        }
+
+        .productdescription {
+            display: none;
+        }
+
+        .productheading {
+            line-height: 2rem!important;
         }
     }
     
@@ -735,19 +751,23 @@ html:not([data-scroll='0']) .maintopnav {
     }
 
     .carousel-bg {
-        filter: blur(0.5rem);
+        //filter: blur(0.5rem);
     }
 
     .productdetails {
         text-align: left;
-
     }
 
     .productheading {
         margin: auto;
         text-transform: uppercase;
         font-weight: bold;
-        font-size: 2rem;
-        line-height: 2rem;
+        //font-size: 2rem;
+        line-height: 2.8rem;
+        text-shadow: 1px 1px 10px #000;
+    }
+
+    .productdescription {
+        text-shadow: 1px 1px 10px #000;        
     }
 }
