@@ -3,7 +3,7 @@ layout: detailspro
 typepro: Products
 subtypepro1: Home Care
 subtypepro2: Floor Disinfectant
-sort: 1
+sort: 8
 title: 25l Disinfectant Ready-to-Use
 subtitle: Leaves your floors freshly disinfected and de-odorised.
 description: Antiseptix Floor Disinfected boasts a DOUBLE STREGNTH formula specially developed to disinfect the grimiest floors all over your house. This formula is proven to kill 99.9% of bacteria, fungus, and virus. fresh, healthy floors for everyone at home from the baby crawler to the 3 second rule floor eater, Antiseptix Floor Disinfectant has got you covered.

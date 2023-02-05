@@ -3,7 +3,7 @@ layout: detailspro
 typepro: Products
 subtypepro1: Home Care
 subtypepro2: Antiseptic
-sort: 1
+sort: 5
 title: 5l Disinfectant Concentrate
 subtitle: Simple, fast and effective
 description: Lorem ipsum dolor sit amet cons ectetur adipis cing elitauris euismod odio tortor non feugiat sem.

@@ -3,7 +3,7 @@ layout: detailspro
 typepro: Products
 subtypepro1: Home Care
 subtypepro2: Hand Sanitizer
-sort: 1
+sort: 3
 title: 750ml Disinfectant Ready-to-Use
 subtitle: Simple, fast and effective
 description: Praesent rutrum libero ut mauris rutrum, sit amet blandit nunc rutrum. Fusce mollis condimentum tincidunt.

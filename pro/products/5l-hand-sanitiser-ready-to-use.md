@@ -3,7 +3,7 @@ layout: detailspro
 typepro: Products
 subtypepro1: Home Care
 subtypepro2: Kitchen Disinfectant
-sort: 1
+sort: 2
 title: 5l Hand Sanitiser Ready-to-Use
 subtitle: Disinfects your kitchen leaving it hygienic and smelling clean.
 description: Antiseptix Kitchen Disinfectant disinfects all kitchen surfaces* without any chemical or alcohol residue. Kills 99.9% of bacteria* including salmonella. Once you have disinfected a surface using our non-toxic Antiseptix Kitchen Disinfectant the surface is ready for food preparation with ZERO contamination, no compromise on cleaning or health.

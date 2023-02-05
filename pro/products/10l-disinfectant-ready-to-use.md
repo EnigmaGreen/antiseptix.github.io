@@ -3,7 +3,7 @@ layout: detailspro
 typepro: Products
 subtypepro1: Home Care
 subtypepro2: Bathroom Clearner
-sort: 1
+sort: 7
 title: 10l Disinfectant Ready-to-Use
 subtitle: Disinfects, removes soap scum, water marks, limescale and leaves your bathroom smelling fresh.
 description: This bathroom disinfectant is our fast acting, non-toxic chemical free formula kills 99.9% of bacteria* including E.coli, Streptococcus, Campylobacter and leaves no chemical residue.  with odour eliminating properties it will leave your bathroom smelling clean.
