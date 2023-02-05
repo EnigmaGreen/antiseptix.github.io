@@ -4,7 +4,8 @@ layout: rootpro
 <div class="container p-sm-5 pt-5 productdetailspage">
     <div class="row pt-sm-5 mt-5">
         <div class="col-8 offset-2">
-            <a class="btn btn-primary col-12 d-sm-none" href="{{site.baseurl}}/pro/products/" role="button">&laquo; Back to Products</a>
+            <a class="btn btn-primary col-12 d-sm-none" href="{{site.baseurl}}/pro/" role="button">&laquo; Back to Products</a>
+            <!-- <a class="btn btn-primary col-12 d-sm-none" href="{{site.baseurl}}/pro/products/" role="button">&laquo; Back to Products</a> -->
         </div>
         <div class="col-12 col-sm-6 text-center text-sm-start py-5 productdetailspageimage">
             <img src="{{page.image}}" width="100%" />

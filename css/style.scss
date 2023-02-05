@@ -212,7 +212,7 @@ h5 {
         border-bottom-right-radius: 5rem;
     }
 
-    #homecarousel {
+    #homecarousel, #procarousel {
         .productimageparagraph {
             text-align: center;
         }
@@ -231,6 +231,15 @@ h5 {
 
         .productheading {
             line-height: 2rem!important;
+        }
+    }
+
+    #procarousel {
+        .productimage {
+            width: 11rem!important;
+        }
+        .carousel-caption {
+            bottom: 1.25rem!important;
         }
     }
     
@@ -364,7 +373,7 @@ h5 {
         border-bottom-right-radius: 10rem;
     }
 
-    #homecarousel {
+    #homecarousel, #procarousel {
         .productimage {
             width: 10rem;
         }
@@ -741,13 +750,14 @@ html:not([data-scroll='0']) .maintopnav {
     border-radius: 0.5rem;
 }
 
-#homecarousel {
+#homecarousel, #procarousel {
     .carousel-inner {
         background: #252525;
     }
 
     .carousel-caption {
         text-align: right;
+        bottom: 5.25rem;
     }
 
     .carousel-bg {

@@ -4,11 +4,11 @@ typepro: Products
 subtypepro1: Home Care
 subtypepro2: Bathroom Clearner
 sort: 1
-title: AntiSeptix Bathroom Cleaner
+title: 10l Disinfectant Ready-to-Use
 subtitle: Disinfects, removes soap scum, water marks, limescale and leaves your bathroom smelling fresh.
 description: This bathroom disinfectant is our fast acting, non-toxic chemical free formula kills 99.9% of bacteria* including E.coli, Streptococcus, Campylobacter and leaves no chemical residue.  with odour eliminating properties it will leave your bathroom smelling clean.
-thumbnail: https://www.dettolprome.com/assets/images/shop/dettol-skincare-liquid-hand-wash-5000ml.webp
-image: https://www.dettolprome.com/assets/images/shop/dettol-skincare-liquid-hand-wash-5000ml.webp
+thumbnail: https://sparmed_live.s3.amazonaws.com/media/products/OODSF-10000.png
+image: https://sparmed_live.s3.amazonaws.com/media/products/OODSF-10000.png
 amazon: https://www.amazon.co.uk/Dettol-Hand-Sanitizer-Original-50ml/dp/B08HYQW9GP/ref=sr_1_4?keywords=dettol+instant+hand+sanitizer&qid=1661961971&refinements=p_76%3A419158031&rnid=419157031&rps=1&sprefix=dettol+instant+%2Caps%2C80&sr=8-4
 applicationpro: ["Cleaning and Sterilisation", "Hospitality", "Medical", "Deodorising", "Sports", "Swimming Pools"]
 faqs:
