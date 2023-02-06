@@ -205,10 +205,10 @@ layout: rootpro
         <div class="col-12 col-md-6 px-4 py-2 py-sm-3">
             <div class="row bg-light py-3 py-sm-5 px-3 text-dark border border-dark border-1 rounded buttongradient">
                 <div class="col-4 col-lg-4">
-                    <img src="{{ p.thumbnail }}" alt="" width="100%" />
+                    <a href="{{ site.baseurl }}{{ p.url }}"><img src="{{ p.thumbnail }}" alt="" width="100%" /></a>
                 </div>
                 <div class="col-8 col-lg-8">
-                    <h4>{{p.title}}</h4>
+                    <h4><a href="{{ site.baseurl }}{{ p.url }}">{{p.title}}</a></h4>
                     <p>{{p.description}}</p>
                     <a class="btn btn-outline-dark" href="{{ site.baseurl }}{{ p.url }}" role="button">More Info</a>
                 </div>
