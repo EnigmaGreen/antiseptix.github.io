@@ -26,9 +26,9 @@ h5 { font-size: 1rem; margin-top: 8rem; }
 
 .bg-image { background-size: cover; }
 
-.bg-image1 { background-color: #ccc; }
+.bg-image1 { background-color: #e9e9e9; }
 
-.bg-image3 { background-color: #ccc; }
+.bg-image3 { background-color: #e9e9e9; }
 
 @media only screen and (max-width: 576px) { .carousel-inner.splash-lg .carousel-bg { min-height: 600px; max-height: 600px; } .splash-md img { min-height: 300px; max-height: 300px; } .straplineheading h1 { font-size: 1em; } .straplineheading h1 span { font-size: 2em; } .brandingcontainer .branding img { width: 7em; } .brandingcontainer .nav-item { padding: 0 0.8em; } .hscrollingcard .card:first-of-type { margin-left: 1em; } .hscrollingcard .card-body { min-height: 200px; min-width: 200px; margin-right: 5px; } .hscrollingcard-b .card:first-of-type { margin-left: 1em; } .hscrollingcard-b .card img, .hscrollingcard-b .card a { width: 22rem; height: 13rem; object-fit: cover; } .hscrollingcard-b .card-body-b { min-height: 200px; min-width: 200px; margin-right: 5px; } .smartbuttons { max-height: 200px; } .smartbuttons .card { height: 100%; } .homesplash .homesplashlink h2 { font-size: 0.8em; } .homesplash .homesplashlink h3 { font-size: 1em; } .homesplash .homesplashlink img { width: initial; max-height: 120px; text-align: right; } .proad h1 { font-size: 1em; } .proad h1 span { font-size: 2em; } .navspecialleft { margin-left: 0.8rem; margin-right: 0.2rem; } .navspecialright { margin-left: -0.2rem; } .rounded-pill-start { border-top-left-radius: 5rem; border-bottom-left-radius: 5rem; } .rounded-pill-end { border-top-right-radius: 5rem; border-bottom-right-radius: 5rem; } #homecarousel .productimageparagraph, #procarousel .productimageparagraph { text-align: center; } #homecarousel .productimage, #procarousel .productimage { width: 7rem; } #homecarousel .productdetails, #procarousel .productdetails { text-align: center !important; } #homecarousel .productdescription, #procarousel .productdescription { display: none; } #homecarousel .productheading, #procarousel .productheading { line-height: 2rem !important; } #procarousel .productimage { width: 11rem !important; } #procarousel .carousel-caption { bottom: 1.25rem !important; } }
 
