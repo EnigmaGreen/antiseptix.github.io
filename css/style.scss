@@ -259,8 +259,8 @@ h5 {
 
     .carousel-inner.splash-lg {
         .carousel-bg {
-            min-height: 600px;
-            max-height: 600px;    
+            min-height: 700px; //600px;
+            max-height: 700px; //600px;    
         }
     }
     .splash-md {
@@ -386,8 +386,8 @@ h5 {
 @media only screen and (min-width: 768px) {
     .carousel-inner.splash-lg {
         .carousel-bg {
-            min-height: 600px;
-            max-height: 600px;    
+            min-height: 700px; //600px;
+            max-height: 700px; //600px;    
         }
     }
     .splash-md {
@@ -759,7 +759,7 @@ html:not([data-scroll='0']) .maintopnav {
 
     .carousel-caption {
         text-align: right;
-        bottom: 5.25rem;
+        bottom: 7.25rem; //5.25rem;
     }
 
     .carousel-bg {

@@ -1,5 +1,5 @@
 ---
-layout: defaultpro
+layout: defaultnosplashpro
 typepro: navright
 sort: 3
 title: FAQs
@@ -58,9 +58,10 @@ Yes. However, spray onto a cloth first - not directly on the electronic device -
 Antiseptix Multi Surface Disinfectant, along with all Antiseptix products are recyclable. We urge our customers to tear off the label of the Antiseptix Multi Surface Disinfectant  bottle using the perforated peal. All components can we be recycled. A thank you in advanced for helping us recycle and save the environment.
 
 
+
 <div class="container py-3 g-sm-0">
     <div class="row">
-        {% assign sorted_applications = site.pages | where:"type", "faqs" | sort: "sort" %}
+        {% assign sorted_applications = site.pages | where:"typepro", "faqs-pro" | sort: "sort" %}
         {% for p in sorted_applications %}
             <div class="col-12 col-sm-6 col-md-4 py-3">
                 <div class="card">

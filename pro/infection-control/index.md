@@ -1,11 +1,11 @@
 ---
-layout: defaultpro
+layout: defaultnosplashpro
 type: 
 typepro: navright
 sort: 2
 title: Infection Control
 css: d-none d-sm-block
-thumbnail: https://images.unsplash.com/photo-1626202373152-8db1760c8f61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80
+thumbnail: https://images.unsplash.com/photo-1631941618536-2979d565b726?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
 breadcrumbs: false
 ---
 # {{page.title}}

@@ -1,5 +1,5 @@
 ---
-layout: defaultpro
+layout: defaultnosplashpro
 typepro: infection-control
 sort: 1
 title: Covid
