@@ -108,7 +108,7 @@ h5 { font-size: 1rem; margin-top: 8rem; }
 
 .productdetailspage .productdetailspageimage img { max-height: 300px; min-width: 100%; object-fit: scale-down; max-width: 100%; min-height: 300px; padding: 1rem; }
 
-.homebuttonspro .buttongradient { background: linear-gradient(45deg, #999, transparent); min-height: 21rem; height: 100%; }
+.homebuttonspro .buttongradient { background: linear-gradient(45deg, #ccc, transparent); min-height: 21rem; height: 100%; border: none !important; }
 
 .homebuttonspro h4 a { text-decoration: none !important; color: #000 !important; }
 

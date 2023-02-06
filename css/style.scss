@@ -733,9 +733,10 @@ html:not([data-scroll='0']) .maintopnav {
 
 .homebuttonspro {
     .buttongradient {
-        background: linear-gradient(45deg, #999, transparent);
+        background: linear-gradient(45deg, #ccc, transparent);
         min-height: 21rem;
         height: 100%;
+        border: none!important;
     }
 
     h4 a {
