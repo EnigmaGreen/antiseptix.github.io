@@ -14,14 +14,28 @@ layout: rootpro
             <div class="d-none d-sm-block pt-5">
             {% include breadcrumbs.html %}
             </div>
-            <h1 class="py-3 px-3">AntiSeptix PRO {{page.title}}</h1>
-            <h2 class="py-3">{{page.subtitle}}</h2>
-            <p>{{page.description}}<p>
+            <h1 class="py-3 px-3 px-sm-0">AntiSeptix PRO {{page.title}}</h1>
+            <h2 class="py-3 px-3 px-sm-0">{{page.subtitle}}</h2>
+            <div class="accordion mb-4" id="accordionDescription">
+  <div class="accordion-item border border-0 border-top border-bottom bg-transparent">
+    <h2 class="accordion-header" id="headingOne">
+      <button class="accordion-button collapsed bg-transparent text-dark px-3 px-sm-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseDescription" aria-expanded="false" aria-controls="collapseDescription">
+        <strong>Show Full Description</strong>
+      </button>
+    </h2>
+    <div id="collapseDescription" class="accordion-collapse collapse hide" aria-labelledby="headingOne" data-bs-parent="#accordionDescription">
+      <div class="accordion-body px-3 px-sm-0">
+        <p>{{page.description}}<p>
+      </div>
+    </div>
+  </div>
+</div>
+            
 
             {% include amazonbutton.md %}
 
-            <p>
-                <a class="btn btn-primary" href="#typeform" data-tf-popup="yn2qHgdC" data-tf-iframe-props="title=AntiSeptix Sales" data-tf-medium="snippet" >Contact Us</a>
+            <p class="mt-3">
+                <a class="btn btn-primary btn-lg" href="#typeform" data-tf-popup="yn2qHgdC" data-tf-iframe-props="title=AntiSeptix Sales" data-tf-medium="snippet" >Contact Us</a>
             </p>
             
         
