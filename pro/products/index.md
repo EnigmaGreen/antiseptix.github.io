@@ -10,21 +10,4 @@ breadcrumbs: false
 ---
 # {{page.title}}
 
-<div class="container py-3 g-sm-0 subcardssectionsscaledown">
-    <div class="row">
-        {% assign sorted_applications = site.pages | where:"typepro", "Products" | sort: "sort" %}
-        {% for p in sorted_applications %}
-            <div class="col-12 col-sm-6 col-md-4 py-3">
-                <div class="card">
-                    <a href="{{ site.baseurl }}{{ p.url }}" class="text-decoration-none fw-bold text-dark">
-                        <img src="{{ p.thumbnail }}" class="card-img-top" alt="...">
-                        <div class="card-body text-center">
-                        <p class="card-text">{{p.title}}</p>
-                        </div>
-                    </a>
-                  </div>
-        </div>
-        {% endfor %}
-    </div>
-    
-</div>
+{% include productlist.html %}

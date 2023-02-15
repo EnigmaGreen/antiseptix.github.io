@@ -25,3 +25,5 @@ When cleaning clothes or fabrics, hypochlorous acid can be added directly to the
 For yourself and your family, you can use Antiseptix as part of your daily hygiene routine. If you're worried about any germs that might still be lingering on your hands, spray them with our Antiseptix  sanitiser and make sure to leave it on for at least a minute before wiping it away. This will help to eliminate any lingering bacteria. 
 
 Hypochlorous acid-based solutions are one of the safest and most effective ways of sanitising both yourself and your environment. To maintain a healthy lifestyle, it's important to regularly clean and sanitise your surroundings. With Antiseptix products you can be sure of a hospital-grade clean. So make sure to add this powerful solution into your daily routine for safe sanitising habits.
+
+{% include productlist.html %}

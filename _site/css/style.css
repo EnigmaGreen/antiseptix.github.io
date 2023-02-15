@@ -128,4 +128,6 @@ h5 { font-size: 1rem; margin-top: 8rem; }
 
 #homecarousel .productdescription, #procarousel .productdescription { text-shadow: 1px 1px 10px #000; }
 
+.product-list-subtitle { display: block; font-weight: initial; }
+
 /*# sourceMappingURL=style.css.map */

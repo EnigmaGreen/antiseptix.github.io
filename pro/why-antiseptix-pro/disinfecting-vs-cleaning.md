@@ -19,3 +19,5 @@ Disinfecting, on the other hand, refers to the process of killing or inactivatin
 There are many different products available for cleaning and disinfecting, Antiseptix is a reliable and safe choice. It is important to choose the appropriate product for the job, as some products may be more effective against certain types of microorganisms than others.
 
 Overall, cleaning and disinfecting are both important activities that help to maintain a clean and healthy environment. While cleaning removes visible dirt and contaminants, disinfecting helps to reduce the risk of illness by killing or inactivating harmful microorganisms.
+
+{% include productlist.html %}

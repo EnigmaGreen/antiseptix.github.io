@@ -24,3 +24,5 @@ In addition to its low toxicity, Antiseptix is also biodegradable, meaning that 
 Another environmental benefit of Antiseptix is its effectiveness at killing a wide range of pathogens, including bacteria, viruses, and fungi. This can help to reduce the spread of illness and disease, which can in turn help to protect public health and reduce the negative impact of disease on the environment. 
 
 The environmental benefits of Antiseptix make it a valuable tool for preventing the spread of illness and disease, while also being safer and more sustainable than many traditional disinfectants. It’s low toxicity, biodegradability, and effectiveness at killing pathogens make it a product for use in various settings, and its use may help to reduce the negative impact of disinfection on the environment.
+
+{% include productlist.html %}

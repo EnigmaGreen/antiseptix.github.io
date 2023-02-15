@@ -21,3 +21,5 @@ It’s also important to note that HOCl is ideal for removing and preventing cor
 For best results when cleaning your electronics with Antiseptix, make sure you use an appropriately sized applicator that won’t overwhelm your device and cause damage. You should also be sure to properly rinse off any remaining residue before allowing the device to dry.
 
 Cleaning electronics with Antiseptix is a safe, non-toxic, and effective process that ensures premium performance and longevity of your devices.
+
+{% include productlist.html %}
