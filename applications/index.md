@@ -3,7 +3,7 @@ layout: default
 type: navright
 sort: 1
 title: Applications
-thumbnail: https://images.unsplash.com/photo-1556911073-38141963c9e0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80
+thumbnail: https://images.unsplash.com/photo-1544507888-56d73eb6046e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80
 breadcrumbs: false
 css: navspecialright
 ---
