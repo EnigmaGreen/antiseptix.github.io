@@ -3,7 +3,7 @@ layout: defaultnosplashpro
 typepro: why-antiseptix-pro
 sort: 1
 title: Keep Your Gadgets Germ Free
-subtitle: blah blah
+subtitle: Safely Disinfect with AntiSeptix 
 thumbnail: https://images.unsplash.com/photo-1505976442149-53a82393903b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80
 ---
 # {{page.title}}
