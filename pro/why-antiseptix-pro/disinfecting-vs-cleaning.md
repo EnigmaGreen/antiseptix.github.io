@@ -8,7 +8,9 @@ thumbnail: https://images.unsplash.com/photo-1627905646269-7f034dcc5738?ixlib=rb
 ---
 # {{page.title}}
 
+{:.pt-0}
 ## {{page.subtitle}}
+
 
 Leaning and disinfecting are two important activities that help to maintain a clean and healthy environment, but they are not the same thing. Understanding the difference between cleaning and disinfecting is essential in order to effectively maintain a clean and safe environment.
 

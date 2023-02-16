@@ -14,7 +14,7 @@ layout: rootpro
             <div class="d-none d-sm-block pt-5">
             {% include breadcrumbs.html %}
             </div>
-            <h1 class="py-3 px-3 px-sm-0">AntiSeptix PRO {{page.title}}</h1>
+            <h1 class="py-3 px-3 px-sm-0">{{page.title}}</h1>
             <h2 class="py-3 px-3 px-sm-0">{{page.subtitle}}</h2>
             <div class="accordion mb-4" id="accordionDescription">
   <div class="accordion-item border border-0 border-top border-bottom bg-transparent">
