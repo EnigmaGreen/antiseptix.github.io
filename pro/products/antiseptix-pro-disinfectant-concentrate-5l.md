@@ -6,21 +6,30 @@ subtypepro2: Antiseptic
 sort: 5
 title: AntiSeptix PRO Disinfectant Concentrate 5l
 subtitle: Powerful disinfectant in a concentrated form
-description: Antiseptix Multi Surface Disinfectant is a surface disinfectant spray that kills 99.9% of bacteria, fungus and viruses, including E.coli, salmonella, coronavirus, poliovirus, norovirus and flu. Antiseptix Multi Surface Disinfectant is a chemical free, ZERO alcohol, non-toxic, fragrance-free disinfectant that has odour eliminating properties, as well as being harmless to the skin.
+description: AntiSeptix Multi Surface Disinfectant is a surface disinfectant spray that kills 99.9% of bacteria, fungus and viruses, including E.coli, salmonella, coronavirus, poliovirus, norovirus and flu. AntiSeptix Multi Surface Disinfectant is a chemical free, ZERO alcohol, non-toxic, fragrance-free disinfectant that has odour eliminating properties, as well as being harmless to the skin.
 thumbnail: https://www.evansvanodine.co.uk/assets/Beerline-5lt-A005EEV2.png
 image: https://www.evansvanodine.co.uk/assets/Beerline-5lt-A005EEV2.png
 amazon: 
 buynow: http://antiseptix.zohocommerce.eu/products/antiseptic-pro-disinfectant-concentrate-5l/354940000000040003
 faqs:
   -
-    q: Does Antiseptix Floor Disinfectant kill Covid-19? 
-    a: Yes.  All Antiseptix products have demonstrated effectiveness against the Covid-19 virus (SARS-CoV-2) when used in accordance with the directions for use. 
+    q: Is AntiSeptix Multi Surface Disinfectant suitable for me to use on my worktop?
+    a: While this can be used on a variety of worktop surfaces, for more detail, refer to the product use on the product label on the bottle.
   -
-    q: Is it safe to use Antiseptix Floor Disinfectant on wooden floors? 
-    a: Antiseptix Floor Disinfectant  is suitable to be used on sealed wooden floors, Tiles, Hardwood, Laminated flooring, Concrete and Hard Floors.
+    q: Can AntiSeptix Multi Surface Disinfectant be used on electronics?
+    a: Yes. However, spray onto a cloth first - not directly on the electronic device - before wiping.
   -
-    q: Is Antiseptix Floor Disinfectant suitable to use in households with children and pets?
-    a: YES! Antiseptix is chemical free, Alcohol free and is 100% natural as well and being non- toxic. Please ensure the product remains out of a child’s reach.
+    q: Is AntiSeptix Multi Surface Disinfectant recyclable?
+    a: AntiSeptix Multi Surface Disinfectant, along with all AntiSeptix products are recyclable. We urge our customers to tear off the label of the AntiSeptix Multi Surface Disinfectant  bottle using the perforated peal. All components can we be recycled. A thank you in advanced for helping us recycle and save the environment.
+  -
+    q: Does AntiSeptix Multi Surface Disinfectant kill Covid-19? 
+    a: Yes.  All AntiSeptix products have demonstrated effectiveness against the Covid-19 virus (SARS-CoV-2) when used in accordance with the directions for use. 
+  -
+    q: Is it safe to use AntiSeptix Multi Surface Disinfectant on wooden floors? 
+    a: AntiSeptix Disinfectant  is suitable to be used on sealed wooden floors, Tiles, Hardwood, Laminated flooring, Concrete and Hard Floors.
+  -
+    q: Is AntiSeptix Multi Surface Disinfectant suitable to use in households with children and pets?
+    a: YES! AntiSeptix is chemical free, Alcohol free and is 100% natural as well and being non- toxic. Please ensure the product remains out of a child’s reach.
 ---
 
 

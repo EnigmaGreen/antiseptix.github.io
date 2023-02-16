@@ -14,13 +14,16 @@ buynow: http://antiseptix.zohocommerce.eu/products/antiseptix-pro-hand-sanitiser
 applicationpro: ["Cleaning and Sterilisation", "Hospitality", "Deodorising", "Water Treatment"]
 faqs:
   -
-    q: Can Antiseptix Kitchen Disinfectant be used in the bathroom?
-    a: Please refer to the product label to identify the surface types recommended. Alternatively, use our Bathroom disinfectant Spray, which is specially designed to meet your bathroom disinfection needs.
+    q: Is AntiSeptix Hand Sanitiser food safe?
+    a: Yes. AntiSeptix Hand Sanitiser is food safe.
   -
-    q: Do I need to wear gloves using Antiseptix Kitchen Disinfectant?
-    a: NO! Antiseptix Kitchen Disinfectant is non-toxic and chemical free. It is safe to use without gloves. 
+    q: Does AntiSeptix Hand Sanitiser contain alcohol?
+    a: No. AntiSeptix Hand Sanitiser does not contain alcohol.
   -
-    q: How long can I use Antiseptic Kitchen Disinfectant for after opening?
-    a: We recommend that once opened Antiseptix Kitchen Disinfectant should be used within 12 months, but we are sure you will be using it way sooner. 
+    q: Is AntiSeptix Hand Sanitiser Halal?
+    a: Yes, AntiSeptix Hand Sanitiser is Halal.
+  -
+    q: Does AntiSeptix Hand Sanitiser kill Covid-19? 
+    a: Yes.  All AntiSeptix products have demonstrated effectiveness against the Covid-19 virus (SARS-CoV-2) when used in accordance with the directions for use.
 ---
 

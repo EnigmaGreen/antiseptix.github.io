@@ -9,39 +9,35 @@ breadcrumbs: false
 ---
 # {{page.title}}
 
-## Is Antiseptix Bathroom Disinfectant suitable to use on all my bathroom surfaces?
+## Is Antiseptix Disinfectant suitable to use on all my bathroom surfaces?
 
-Antiseptix Bathroom Disinfectant Spray can be used on all bathroom surfaces except for marble, brass, copper, unfinished wood, carpet, fabric and unwaxed vinyl.
+Antiseptix Disinfectant Spray can be used on all bathroom surfaces except for marble, brass, copper, unfinished wood, carpet, fabric and unwaxed vinyl.
 
-## Will Antiseptix Bathroom Disinfectant, disinfect the invisible bacteria in my bathroom?
+## Will Antiseptix Disinfectant disinfect the invisible bacteria in my bathroom?
 
 YES! Antiseptix will kill 99.9% of bacteria*. Soap scum and watermarks are also removed.
 
-## Is Antiseptix Bathroom Disinfectant suitable to use in households with children and pets?
+## Is Antiseptix Disinfectant suitable to use in households with children and pets?
 
 YES! Antiseptix is chemical free, Alcohol free and is 100% natural as well and being non- toxic. Please ensure the product remains out of a child’s reach.
 
-## Can Antiseptix Kitchen Disinfectant be used in the bathroom?
+## Do I need to wear gloves using Antiseptix Disinfectant?
 
-Please refer to the product label to identify the surface types recommended. Alternatively, use our Bathroom disinfectant Spray, which is specially designed to meet your bathroom disinfection needs.
+NO! Antiseptix Disinfectant is non-toxic and chemical free. It is safe to use without gloves. 
 
-## Do I need to wear gloves using Antiseptix Kitchen Disinfectant?
+## How long can I use Antiseptic Disinfectant for after opening?
 
-NO! Antiseptix Kitchen Disinfectant is non-toxic and chemical free. It is safe to use without gloves. 
+We recommend that once opened Antiseptix Disinfectant should be used within 12 months, but we are sure you will be using it way sooner. 
 
-## How long can I use Antiseptic Kitchen Disinfectant for after opening?
-
-We recommend that once opened Antiseptix Kitchen Disinfectant should be used within 12 months, but we are sure you will be using it way sooner. 
-
-## Does Antiseptix Floor Disinfectant kill Covid-19? 
+## Does Antiseptix Disinfectant kill Covid-19? 
 
 Yes.  All Antiseptix products have demonstrated effectiveness against the Covid-19 virus (SARS-CoV-2) when used in accordance with the directions for use. 
 
-## Is it safe to use Antiseptix Floor Disinfectant on wooden floors? 
+## Is it safe to use Antiseptix Disinfectant on wooden floors? 
 
-Antiseptix Floor Disinfectant  is suitable to be used on sealed wooden floors, Tiles, Hardwood, Laminated flooring, Concrete and Hard Floors.
+Antiseptix Disinfectant is suitable to be used on sealed wooden floors, Tiles, Hardwood, Laminated flooring, Concrete and Hard Floors.
 
-## Is Antiseptix Floor Disinfectant suitable to use in households with children and pets?
+## Is Antiseptix Disinfectant suitable to use in households with children and pets?
 
 YES! Antiseptix is chemical free, Alcohol free and is 100% natural as well and being non- toxic. Please ensure the product remains out of a child’s reach.
 

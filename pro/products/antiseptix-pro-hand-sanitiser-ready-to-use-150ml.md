@@ -14,12 +14,15 @@ buynow: http://antiseptix.zohocommerce.eu/products/antiseptix-pro-hand-sanitiser
 applicationpro: ["Cleaning and Sterilisation", "Hospitality", "Medical", "Automotive","Public Transportation", "Logistics", "Deodorising", "Water Treatment", "Sports", "Laundry and Surface Cleaners", "Swimming Pools", "Pharmaceuticals", "Oil & Gas", "Hot and Chilled Water Systems"]
 faqs:
   -
-    q: Is Antiseptix Multi Surface Disinfectant suitable for me to use on my worktop?
-    a: While this can be used on a variety of worktop surfaces, for more detail, refer to the product use on the product label on the bottle.
+    q: Is AntiSeptix Hand Sanitiser food safe?
+    a: Yes. AntiSeptix Hand Sanitiser is food safe.
   -
-    q: Can Antiseptix Multi Surface Disinfectant be used on electronics?
-    a: Yes. However, spray onto a cloth first - not directly on the electronic device - before wiping.
+    q: Does AntiSeptix Hand Sanitiser contain alcohol?
+    a: No. AntiSeptix Hand Sanitiser does not contain alcohol.
   -
-    q: Is Antiseptix Multi Surface Disinfectant recyclable?
-    a: Antiseptix Multi Surface Disinfectant, along with all Antiseptix products are recyclable. We urge our customers to tear off the label of the Antiseptix Multi Surface Disinfectant  bottle using the perforated peal. All components can we be recycled. A thank you in advanced for helping us recycle and save the environment.
+    q: Is AntiSeptix Hand Sanitiser Halal?
+    a: Yes, AntiSeptix Hand Sanitiser is Halal.
+  -
+    q: Does AntiSeptix Hand Sanitiser kill Covid-19? 
+    a: Yes.  All AntiSeptix products have demonstrated effectiveness against the Covid-19 virus (SARS-CoV-2) when used in accordance with the directions for use.
 ---
