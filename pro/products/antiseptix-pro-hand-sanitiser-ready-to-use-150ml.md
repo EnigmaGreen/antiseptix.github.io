@@ -4,12 +4,13 @@ typepro: Products
 subtypepro1: Home Care
 subtypepro2: Multi Surface Cleaner
 sort: 4
-title: 150ml Hand Sanitiser Ready-to-Use
+title: AntiSeptix PRO Hand Sanitiser Ready-to-Use 150ml
 subtitle: Disinfects your home leaving it hygienic and smelling clean 
 description: Antiseptix Multi Surface Disinfectant is a surface disinfectant spray that kills 99.9% of bacteria, fungus and viruses, including E.coli, salmonella, coronavirus, poliovirus, norovirus, monkey pox and flu. Antiseptix Multi Surface Disinfectant is a chemical free, ZERO alcohol, non-toxic, fragrance-free disinfectant that has odour eliminating properties, as well as being harmless to the skin.
 thumbnail: https://www.pngall.com/wp-content/uploads/5/Hand-Sanitizer-PNG-Download-Image.png
 image: https://www.pngall.com/wp-content/uploads/5/Hand-Sanitizer-PNG-Download-Image.png
-amazon: https://www.amazon.co.uk/Dettol-Hand-Sanitizer-Original-50ml/dp/B08HYQW9GP/ref=sr_1_4?keywords=dettol+instant+hand+sanitizer&qid=1661961971&refinements=p_76%3A419158031&rnid=419157031&rps=1&sprefix=dettol+instant+%2Caps%2C80&sr=8-4
+amazon: 
+buynow: http://antiseptix.zohocommerce.eu/products/antiseptix-pro-hand-sanitiser-ready-to-use-150ml/354940000000048148
 applicationpro: ["Cleaning and Sterilisation", "Hospitality", "Medical", "Automotive","Public Transportation", "Logistics", "Deodorising", "Water Treatment", "Sports", "Laundry and Surface Cleaners", "Swimming Pools", "Pharmaceuticals", "Oil & Gas", "Hot and Chilled Water Systems"]
 faqs:
   -
