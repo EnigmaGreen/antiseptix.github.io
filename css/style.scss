@@ -503,17 +503,17 @@ h5 {
     }
 }
 
-.maintopnav {
+.maintopnavgradient {
     background: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
-
 
     .nav-link {
         color: white;
     }
 }
 
-.maintopnav:hover,
-html:not([data-scroll='0']) .maintopnav {
+.maintopnav,
+.maintopnavgradient:hover,
+html:not([data-scroll='0']) .maintopnavgradient {
     background: white; /*linear-gradient(to bottom, rgba(255, 255, 255,1), rgba(250, 250, 250,1));*/
     box-shadow: 0px -1px 0px #999 inset;
 

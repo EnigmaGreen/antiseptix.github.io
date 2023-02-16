@@ -37,7 +37,7 @@ layout: rootpro
             {% include buynow.md %}
 
             <p class="mt-3">
-                <a class="btn btn-primary btn-lg" href="#typeform" data-tf-popup="yn2qHgdC" data-tf-iframe-props="title=AntiSeptix Sales" data-tf-medium="snippet" >Contact Us</a>
+                <a class="btn btn-outline-secondary btn-lg" href="#typeform" data-tf-popup="yn2qHgdC" data-tf-iframe-props="title=AntiSeptix Sales" data-tf-medium="snippet" >Contact Us</a>
             </p>
             
         

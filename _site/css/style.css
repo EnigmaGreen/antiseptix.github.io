@@ -36,15 +36,15 @@ h5 { font-size: 1rem; margin-top: 8rem; }
 
 @media only screen and (min-width: 768px) { .carousel-inner.splash-lg .carousel-bg { min-height: 700px; max-height: 700px; } .splash-md img { min-height: 500px; max-height: 500px; } .straplineheading h1 { font-size: 2em; } .straplineheading h1 span { font-size: 2em; } .brandingcontainer .branding a { padding: 0 2em; } .brandingcontainer .branding img { width: 15em; } .brandingcontainer .nav-item { padding: 0.2rem 0rem; font-size: 0.8rem; } .hscrollingcard .card:first-of-type { margin-left: 4em; } .hscrollingcard .card-body { min-height: 300px; min-width: 300px; margin-right: 5px; margin-left: 2rem; } .hscrollingcard-b .card:first-of-type { margin-left: 4em; } .hscrollingcard-b .card img, .hscrollingcard-b .card a { width: 22rem; height: 13rem; object-fit: cover; } .hscrollingcard-b .card-body-b { min-height: 300px; min-width: 300px; margin-right: 5px; margin-left: 2rem; } .smartbuttons { max-height: 200px; } .smartbuttons .card { height: 100%; } .homesplash .homesplashlink h2 { font-size: 1.5em; } .homesplash .homesplashlink img { width: initial; max-height: 200px; text-align: right; } .proad h1 { font-size: 1rem; } .proad h1 span { font-size: 2em; } .rounded-pill-start { border-top-left-radius: 15rem; border-bottom-left-radius: 15rem; } .rounded-pill-end { border-top-right-radius: 15rem; border-bottom-right-radius: 15rem; } }
 
-.maintopnav { background: linear-gradient(to bottom, black, rgba(0, 0, 0, 0)); }
+.maintopnavgradient { background: linear-gradient(to bottom, black, rgba(0, 0, 0, 0)); }
 
-.maintopnav .nav-link { color: white; }
+.maintopnavgradient .nav-link { color: white; }
 
-.maintopnav:hover, html:not([data-scroll='0']) .maintopnav { background: white; /*linear-gradient(to bottom, rgba(255, 255, 255,1), rgba(250, 250, 250,1));*/ box-shadow: 0px -1px 0px #999 inset; }
+.maintopnav, .maintopnavgradient:hover, html:not([data-scroll='0']) .maintopnavgradient { background: white; /*linear-gradient(to bottom, rgba(255, 255, 255,1), rgba(250, 250, 250,1));*/ box-shadow: 0px -1px 0px #999 inset; }
 
-.maintopnav:hover .nav-link, html:not([data-scroll='0']) .maintopnav .nav-link { color: black; }
+.maintopnav .nav-link, .maintopnavgradient:hover .nav-link, html:not([data-scroll='0']) .maintopnavgradient .nav-link { color: black; }
 
-.maintopnav:hover .nav-link:hover, html:not([data-scroll='0']) .maintopnav .nav-link:hover { box-shadow: 0px -3px 0px #17ae00 inset; }
+.maintopnav .nav-link:hover, .maintopnavgradient:hover .nav-link:hover, html:not([data-scroll='0']) .maintopnavgradient .nav-link:hover { box-shadow: 0px -3px 0px #17ae00 inset; }
 
 .brandingcontainer { height: 2.7em; }
 

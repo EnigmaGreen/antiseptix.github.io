@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: defaultnosplash
 type: navright
 sort: 3
 title: FAQs
