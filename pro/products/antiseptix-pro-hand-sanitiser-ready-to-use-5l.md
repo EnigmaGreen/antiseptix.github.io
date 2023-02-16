@@ -5,8 +5,8 @@ subtypepro1: Home Care
 subtypepro2: Kitchen Disinfectant
 sort: 2
 title: AntiSeptix PRO Hand Sanitiser Ready-to-Use 5l
-subtitle: Disinfects your kitchen leaving it hygienic and smelling clean.
-description: Antiseptix Kitchen Disinfectant disinfects all kitchen surfaces* without any chemical or alcohol residue. Kills 99.9% of bacteria* including salmonella. Once you have disinfected a surface using our non-toxic Antiseptix Kitchen Disinfectant the surface is ready for food preparation with ZERO contamination, no compromise on cleaning or health.
+subtitle: Vegan non-alcohol based safe sanitiser
+description: A food-grade, non-toxic, vegan, non-alcohol hand sanitiser which kills 99.9% of bacteria, fungus and viruses, including E.coli, salmonella, coronavirus, poliovirus, norovirus and flu while leaving no chemical or alcohol residue.
 thumbnail: https://www.evansvanodine.co.uk/assets/Beerline-5lt-A005EEV2.png
 image: https://www.evansvanodine.co.uk/assets/Beerline-5lt-A005EEV2.png
 amazon: 

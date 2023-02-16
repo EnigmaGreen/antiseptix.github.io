@@ -5,8 +5,8 @@ subtypepro1: Home Care
 subtypepro2: Bathroom Clearner
 sort: 7
 title: AntiSeptix PRO Disinfectant Ready-to-Use 1l
-subtitle: Disinfects, removes soap scum, water marks, limescale and leaves your bathroom smelling fresh.
-description: This bathroom disinfectant is our fast acting, non-toxic chemical free formula kills 99.9% of bacteria* including E.coli, Streptococcus, Campylobacter and leaves no chemical residue.  with odour eliminating properties it will leave your bathroom smelling clean.
+subtitle: Simple, fast and effective disinfectant
+description: Antiseptix Multi Surface Disinfectant is a surface disinfectant spray that kills 99.9% of bacteria, fungus and viruses, including E.coli, salmonella, coronavirus, poliovirus, norovirus and flu. Antiseptix Multi Surface Disinfectant is a chemical free, ZERO alcohol, non-toxic, fragrance-free disinfectant that has odour eliminating properties, as well as being harmless to the skin.
 thumbnail: https://sparmed_live.s3.amazonaws.com/media/products/OODSF-10000.png
 image: https://sparmed_live.s3.amazonaws.com/media/products/OODSF-10000.png
 amazon: 

@@ -5,8 +5,8 @@ subtypepro1: Home Care
 subtypepro2: Multi Surface Cleaner
 sort: 4
 title: AntiSeptix PRO Hand Sanitiser Ready-to-Use 150ml
-subtitle: Disinfects your home leaving it hygienic and smelling clean 
-description: Antiseptix Multi Surface Disinfectant is a surface disinfectant spray that kills 99.9% of bacteria, fungus and viruses, including E.coli, salmonella, coronavirus, poliovirus, norovirus, monkey pox and flu. Antiseptix Multi Surface Disinfectant is a chemical free, ZERO alcohol, non-toxic, fragrance-free disinfectant that has odour eliminating properties, as well as being harmless to the skin.
+subtitle: Powerful, professional food-safe sanitiser
+description: A food-grade, non-toxic, vegan, non-alcohol hand sanitiser which kills 99.9% of bacteria, fungus and viruses, including E.coli, salmonella, coronavirus, poliovirus, norovirus and flu while leaving no chemical or alcohol residue.
 thumbnail: https://www.pngall.com/wp-content/uploads/5/Hand-Sanitizer-PNG-Download-Image.png
 image: https://www.pngall.com/wp-content/uploads/5/Hand-Sanitizer-PNG-Download-Image.png
 amazon: 
