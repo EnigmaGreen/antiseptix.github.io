@@ -30,6 +30,29 @@ faqs:
   -
     q: Is AntiSeptix Multi Surface Disinfectant suitable to use in households with children and pets?
     a: YES! AntiSeptix is chemical free, Alcohol free and is 100% natural as well and being non- toxic. Please ensure the product remains out of a child’s reach.
+instructions:
+  -
+    Turn the spray nozzle to ‘ON’ position
+  -
+    Keep bottle upright, spray from 20- 25 cm away
+  -
+    Leave to work for up to 5 minutes
+  -
+    Wipe clean!
+safety:
+  -
+    External use only.
+  - 
+    When using this product, keep out of eyes, ears and mouth.
+  -
+    In case of contact with eyes, rinse thoroughly with water.
+  - 
+    Keep out of reach of children.
+  - 
+    If Swallowed seek medical attention if you feel unwell.
+ingredients:
+  -
+    1% w/v Saline
 ---
 
 

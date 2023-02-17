@@ -29,6 +29,55 @@ layout: rootpro
       </div>
     </div>
   </div>
+ <div class="accordion-item border border-0 border-top border-bottom bg-transparent">
+    <h2 class="accordion-header" id="headingTwo">
+      <button class="accordion-button collapsed bg-transparent text-dark px-3 px-sm-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseInstructions" aria-expanded="false" aria-controls="collapseInstructions">
+        <strong>How to Use</strong>
+      </button>
+    </h2>
+    <div id="collapseInstructions" class="accordion-collapse collapse hide" aria-labelledby="headingTwo" data-bs-parent="#accordionInstructions">
+      <div class="accordion-body px-3 px-sm-0">
+        <ol>
+        {% for i in page.instructions %}
+            <li> {{ i }}</li>
+        {% endfor %}
+        </ol>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item border border-0 border-top border-bottom bg-transparent">
+    <h2 class="accordion-header" id="headingTwo">
+      <button class="accordion-button collapsed bg-transparent text-dark px-3 px-sm-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSafety" aria-expanded="false" aria-controls="collapseSafety">
+        <strong>Safety Instructions</strong>
+      </button>
+    </h2>
+    <div id="collapseSafety" class="accordion-collapse collapse hide" aria-labelledby="headingTwo" data-bs-parent="#accordionSafety">
+      <div class="accordion-body px-3 px-sm-0">
+        <ul>
+        {% for i in page.safety %}
+            <li> {{ i }}</li>
+        {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+<div class="accordion-item border border-0 border-top border-bottom bg-transparent">
+    <h2 class="accordion-header" id="headingTwo">
+      <button class="accordion-button collapsed bg-transparent text-dark px-3 px-sm-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseIngredients" aria-expanded="false" aria-controls="collapseIngredients">
+        <strong>Ingredients</strong>
+      </button>
+    </h2>
+    <div id="collapseIngredients" class="accordion-collapse collapse hide" aria-labelledby="headingTwo" data-bs-parent="#accordionIngredients">
+      <div class="accordion-body px-3 px-sm-0">
+        <ol>
+        {% for i in page.ingredients %}
+            <li> {{ i }}</li>
+        {% endfor %}
+        </ol>
+      </div>
+    </div>
+  </div>
+
 </div>
             
 
