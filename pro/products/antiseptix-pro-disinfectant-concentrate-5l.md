@@ -53,6 +53,13 @@ safety:
 ingredients:
   -
     1% w/v Saline
+storage:
+  -
+    Store between 15-30C out of direct sunlight.
+  -
+    Avoid freezing and excessive heat above 40oC.
+  -
+    Once open use within 12 months.
 ---
 
 

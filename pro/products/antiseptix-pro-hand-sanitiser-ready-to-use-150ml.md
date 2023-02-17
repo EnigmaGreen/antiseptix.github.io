@@ -25,4 +25,32 @@ faqs:
   -
     q: Does AntiSeptix Hand Sanitiser kill Covid-19? 
     a: Yes.  All AntiSeptix products have demonstrated effectiveness against the Covid-19 virus (SARS-CoV-2) when used in accordance with the directions for use.
+instructions:
+  -
+    Pump one squirt into the palm of your hand
+  -
+    Rub the sanitiser into your hands
+  -
+    Allow to air dry
+safety:
+  -
+    External use only.
+  - 
+    When using this product, keep out of eyes, ears and mouth.
+  -
+    In case of contact with eyes, rinse thoroughly with water.
+  - 
+    Keep out of reach of children.
+  - 
+    If Swallowed seek medical attention if you feel unwell.
+ingredients:
+  -
+    Electrochemically activated saline solution with >0.1% w/v saline
+storage:
+  -
+    Store between 15-30C out of direct sunlight.
+  -
+    Avoid freezing and excessive heat above 40oC.
+  -
+    Once open use within 12 months.
 ---

@@ -16,6 +16,15 @@ layout: rootpro
             </div>
             <h1 class="py-3 px-3 px-sm-0">{{page.title}}</h1>
             <h2 class="py-3 px-3 px-sm-0">{{page.subtitle}}</h2>
+
+                        {% include amazonbutton.md %}
+
+            {% include buynow.md %}
+
+            <p class="mt-3">
+                <a class="btn btn-outline-secondary btn-lg" href="#typeform" data-tf-popup="yn2qHgdC" data-tf-iframe-props="title=AntiSeptix Sales" data-tf-medium="snippet" >Contact Us</a>
+            </p>
+
             <div class="accordion mb-4" id="accordionDescription">
   <div class="accordion-item border border-0 border-top border-bottom bg-transparent">
     <h2 class="accordion-header" id="headingOne">
@@ -69,11 +78,27 @@ layout: rootpro
     </h2>
     <div id="collapseIngredients" class="accordion-collapse collapse hide" aria-labelledby="headingTwo" data-bs-parent="#accordionIngredients">
       <div class="accordion-body px-3 px-sm-0">
-        <ol>
+        <ul>
         {% for i in page.ingredients %}
             <li> {{ i }}</li>
         {% endfor %}
-        </ol>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="accordion-item border border-0 border-top border-bottom bg-transparent">
+    <h2 class="accordion-header" id="headingTwo">
+      <button class="accordion-button collapsed bg-transparent text-dark px-3 px-sm-0" type="button" data-bs-toggle="collapse" data-bs-target="#collapseStorage" aria-expanded="false" aria-controls="collapseStorage">
+        <strong>Storage</strong>
+      </button>
+    </h2>
+    <div id="collapseStorage" class="accordion-collapse collapse hide" aria-labelledby="headingTwo" data-bs-parent="#accordionStorage">
+      <div class="accordion-body px-3 px-sm-0">
+        <ul>
+        {% for i in page.storage %}
+            <li> {{ i }}</li>
+        {% endfor %}
+        </ul>
       </div>
     </div>
   </div>
@@ -81,13 +106,7 @@ layout: rootpro
 </div>
             
 
-            {% include amazonbutton.md %}
 
-            {% include buynow.md %}
-
-            <p class="mt-3">
-                <a class="btn btn-outline-secondary btn-lg" href="#typeform" data-tf-popup="yn2qHgdC" data-tf-iframe-props="title=AntiSeptix Sales" data-tf-medium="snippet" >Contact Us</a>
-            </p>
             
         
         </div>
@@ -240,31 +259,46 @@ layout: rootpro
 <div class="container-fluid g-0 py-5 pe-3 pe-md-5">
     <div class="container-fluid py-5 py-sm-3 py-md-5 bg-image bg-image3 text-dark rounded-pill-end">
         <div class="row p-5">
+
             <div class="col-12 col-md-4">
-                <h2>How to Use</h2>
-                <ol>
-                    <li>Turn the spray nozzle to ‘ON’ position</li>
-                    <li>Keep bottle upright, spray from 20- 25 cm away</li>
-                    <li>Leave to work for up to 5 minutes</li>
-                    <li>Wipe clean!</li>
-                </ol>
+                <div class="col-12 col-md-12">
+                    <h2>How to Use</h2>
+                    <ol>
+                        {% for i in page.instructions %}
+                            <li> {{ i }}</li>
+                        {% endfor %}
+                    </ol>
+                    
+                </div>
+                <div class="col-12 col-md-12">
+                    <h2>Ingredients</h2>
+                    <ul>
+                        {% for i in page.ingredients %}
+                            <li> {{ i }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
             </div>
-            <div class="col-12 col-md-4">
-                <h2>Safety Instructions</h2>
-                <ul>
-                    <li>External use only.</li>
-                    <li>When using this product, keep out of eyes, ears and mouth.</li>
-                    <li>In case of contact with eyes, rinse thoroughly with water.</li>
-                    <li>Keep out of reach of children.</li>
-                    <li>If Swallowed seek medical attention if you feel unwell.</li>
-                </ul>
+
+            <div class="col-12 col-md-8 row">
+                <div class="col-12 col-md-6">
+                    <h2>Safety Instructions</h2>
+                    <ul>
+                        {% for i in page.safety %}
+                            <li> {{ i }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="col-12 col-md-6">
+                    <h2>Storage</h2>
+                    <ul>
+                        {% for i in page.storage %}
+                            <li> {{ i }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
             </div>
-            <div class="col-12 col-md-4">
-                <h2>Ingredients</h2>
-                <ul>
-                    <li>1% w/v Saline</li>
-                </ul>
-            </div>
+
         </div>
     </div>
 </div>
