@@ -9,7 +9,10 @@ thumbnail: https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb
 # {{page.title}}
 
 One of the main advantages of Antiseptix is its effectiveness at killing germs. It has been shown to be effective against a wide range of bacteria, viruses, and fungi, including those that are resistant to other types of disinfectants. This makes it a valuable tool in the fight against the spread of infections in hospitals, schools, and other settings.
+
 Antiseptix is also safe for use on skin and does not produce harmful byproducts when it breaks down. This makes it a good alternative to harsh chemicals that can be drying or irritating to the skin.
+
+{% include image.html lightbox="false" src="https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2213&q=80" data="group" title="Image title" width="100%" height="250px" %}
 
 In addition to its effectiveness and safety, Antispetix is also environmentally friendly. It is naturally occurring and biodegradable, meaning it does not leave harmful residues or contribute to pollution. This makes it a responsible choice for those who are concerned about the impact of their cleaning products on the environment.
 

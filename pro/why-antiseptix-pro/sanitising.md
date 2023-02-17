@@ -14,6 +14,8 @@ The global pandemic has changed the way we think about our health and safety pra
 
 Antiseptix is an effective solution for keeping our surfaces, and ourselves, safe and clean.  Our Antiseptix contains Hypochlorous acid (HOCL). HOCL is a naturally occurring chemical compound derived from salt and water. It's a type of chlorine that's used as a pesticide and biocide, so you can be sure it will hospital grade cleanliness when it comes to eliminating bacteria and germs.
 
+{% include image.html lightbox="false" src="https://images.unsplash.com/photo-1669101283561-642d16d924ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80" data="group" title="Image title" width="100%" height="400px" %}
+
 As an active and natural disinfectant, Antiseptix sanitiser is non-toxic, non-irritating and gentle on our skin, making it safer for all members of the family. 
 
 ## So, how do you use Antiseptix as part of your safe sanitising habits? 
