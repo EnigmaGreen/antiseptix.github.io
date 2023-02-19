@@ -13,6 +13,8 @@ Effective infection control strategies are essential in preventing the spread of
 
 MRSA is still a common cause of HAIs, even though infection control strategies are in place. Efforts to prevent the spread of MRSA must be ongoing in order to ensure that effective treatment and control strategies are implemented in healthcare settings and that healthcare workers are aware of the risk of HAIs and how to minimize them.
 
+{% include image.html lightbox="false" src="https://images.unsplash.com/photo-1600443271532-d7370b84494b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1216&q=80" data="group" title="Image title" width="100%" height="400px" %}
+
 One of the most effective preventive measures is the use of Antiseptix. A hypochlorous acid (HOCL) solution. HOCL is a natural disinfectant that has highly potent antimicrobial properties and is commonly used in healthcare facilities. In addition to killing bacteria and fungi, it is also effective against viruses, making it highly effective in fighting MRSA.
 
 Our Antiseptix can be applied to surfaces, equipment, and even patients themselves to help reduce the risk of infection. Healthcare providers should use HOCL with other preventive measures such as hand hygiene and regular disinfecting of surfaces and equipment. Antiseptix should also be used routinely as part of a standard infection control plan in any healthcare facility.

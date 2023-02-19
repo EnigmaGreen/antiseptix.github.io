@@ -13,6 +13,8 @@ Prevention is the best way to keep yourself safe from E. coli infections. Proper
 
 If you become infected with E. coli, it’s important to seek medical attention right away.
 
+{% include image.html lightbox="false" src="https://images.unsplash.com/photo-1626202373152-8db1760c8f61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80" data="group" title="Image title" width="100%" height="350px" %}
+
 No matter how cautious you are, it’s still possible for someone to become infected with E. coli. It’s important to stay aware of the symptoms of E. coli and be prepared to take action in the case of an infection. By following simple prevention measures and being aware of the signs of an E. coli infection, you can help keep yourself safe from this bacteria.
 
 In recent years, E. coli has become a major concern for public health due to its ability to cause severe illness and even death. It is essential to take steps to prevent the spread of this bacteria in order to protect the health and safety of everyone. 

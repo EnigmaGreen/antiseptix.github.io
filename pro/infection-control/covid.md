@@ -14,6 +14,8 @@ Coronavirus Disease 2019 (COVID-19) is a novel virus. It causes severe acute res
 
 AntiSeptix is completely organic advanced antiseptic and disinfectant that kills 99.99% of bacteria and viruses, including Coronavirus. Our products replicate natural particles created by our own immune system in order to eradicate invasive organisms and fight injections. AntiSeptix is a natural antiseptic and antibacterial liquid solution.
 
+{% include image.html lightbox="false" src="https://images.unsplash.com/photo-1600443299762-7a743123645d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1280&q=80" data="group" title="Image title" width="100%" height="250px" %}
+
 The result is a stable antiseptic and antibacterial solution that kills all types of germs on contact, without being harmful to humans or animals.
 
 Our products are UK laboratory tested and are proven to kill Coronavirus.

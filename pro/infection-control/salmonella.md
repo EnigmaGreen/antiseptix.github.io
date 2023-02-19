@@ -15,6 +15,8 @@ Salmonella is most commonly found in raw or undercooked poultry, beef and pork t
 
 To prevent salmonella infection, it’s important to practice good food safety habits such as washing hands, utensils and surfaces that have come into contact with raw meat or eggs. 
 
+{% include image.html lightbox="false" src="https://images.unsplash.com/photo-1582034986517-30d163aa1da9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80" data="group" title="Image title" width="100%" height="350px" %}
+
 At the heart of good hygiene and safety practices, the prevention of food-borne illnesses such as salmonella from contaminated food requires proper sanitation and disinfection. One effective way to prevent salmonella is with a our disinfectant Antiseptix. 
 
 HOCL is a naturally-occurring disinfectant found in our own body's white blood cells, used to fight infection. It has been approved by to combat a range of pathogens, including salmonella. Antiseptix sanitizes better than traditional sanitisers, and is safe enough to use on food contact surfaces.
