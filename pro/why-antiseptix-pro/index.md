@@ -43,10 +43,14 @@ Antiseptix is easy to apply and leaves no residue behind, making it convenient t
     </div>
 </div>
 
-## As well as the above, AntiSeptix is also:
+## As well as the above, AntiSeptix is also
 
-- Highly-effective virucidal, antibacterial, sporicidal and fungicidal
-- Completely organic
-- Uses natural materials in a special manufacturing process
-- Stable solution with a long shelf life
-- Completely non-toxic - safe for adults, children and pets
+#### Highly-effective virucidal, antibacterial, sporicidal and fungicidal
+
+#### Completely organic
+
+#### Uses natural materials in a special manufacturing process
+
+#### Stable solution with a long shelf life
+
+#### Completely non-toxic - safe for adults, children and pets
