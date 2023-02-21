@@ -106,7 +106,7 @@ h5 { font-size: 1rem; margin-top: 8rem; }
 
 .subcardssectionsscaledown img { max-height: 200px; min-width: 100%; object-fit: scale-down; max-width: 100%; min-height: 200px; padding: 1rem; }
 
-.productdetailspage .productdetailspageimage img { max-height: 300px; min-width: 100%; object-fit: scale-down; max-width: 100%; min-height: 300px; padding: 1rem; }
+.productdetailspage .productdetailspageimage img { max-height: 600px; min-width: 100%; object-fit: scale-down; max-width: 100%; min-height: 300px; padding: 1rem; }
 
 .homebuttonspro .buttongradient { background: linear-gradient(45deg, #ddd, transparent); min-height: 21rem; height: 100%; border: none !important; }
 
