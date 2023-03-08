@@ -7,8 +7,8 @@ sort: 4
 title: AntiSeptix PRO Hand Sanitiser Ready-to-Use 150ml
 subtitle: Powerful, professional food-safe sanitiser
 description: A food-grade, non-toxic, vegan, non-alcohol hand sanitiser which kills 99.9% of bacteria, fungus and viruses, including E.coli, salmonella, coronavirus, poliovirus, norovirus and flu while leaving no chemical or alcohol residue.
-thumbnail: https://www.pngall.com/wp-content/uploads/5/Hand-Sanitizer-PNG-Download-Image.png
-image: https://www.pngall.com/wp-content/uploads/5/Hand-Sanitizer-PNG-Download-Image.png
+thumbnail: /antiseptix.github.io/images/ds1.png #https://www.pngall.com/wp-content/uploads/5/Hand-Sanitizer-PNG-Download-Image.png
+image: /antiseptix.github.io/images/ds1.png #https://www.pngall.com/wp-content/uploads/5/Hand-Sanitizer-PNG-Download-Image.png
 amazon: 
 buynow: http://antiseptix.zohocommerce.eu/products/antiseptix-pro-hand-sanitiser-ready-to-use-150ml/354940000000048148
 applicationpro: ["Cleaning and Sterilisation", "Hospitality", "Medical", "Automotive","Public Transportation", "Logistics", "Deodorising", "Water Treatment", "Sports", "Laundry and Surface Cleaners", "Swimming Pools", "Pharmaceuticals", "Oil & Gas", "Hot and Chilled Water Systems"]

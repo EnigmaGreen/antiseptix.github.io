@@ -7,8 +7,8 @@ sort: 2
 title: AntiSeptix PRO Hand Sanitiser Ready-to-Use 5l
 subtitle: Vegan non-alcohol based safe sanitiser
 description: A food-grade, non-toxic, vegan, non-alcohol hand sanitiser which kills 99.9% of bacteria, fungus and viruses, including E.coli, salmonella, coronavirus, poliovirus, norovirus and flu while leaving no chemical or alcohol residue.
-thumbnail: https://www.evansvanodine.co.uk/assets/Beerline-5lt-A005EEV2.png
-image: https://www.evansvanodine.co.uk/assets/Beerline-5lt-A005EEV2.png
+thumbnail: /antiseptix.github.io/images/dk1.png #https://www.evansvanodine.co.uk/assets/Beerline-5lt-A005EEV2.png
+image: /antiseptix.github.io/images/dk1.png #https://www.evansvanodine.co.uk/assets/Beerline-5lt-A005EEV2.png
 amazon: 
 buynow: http://antiseptix.zohocommerce.eu/products/antiseptix-pro-hand-sanitiser-ready-to-use-5l/354940000000048110
 applicationpro: ["Cleaning and Sterilisation", "Hospitality", "Deodorising", "Water Treatment"]

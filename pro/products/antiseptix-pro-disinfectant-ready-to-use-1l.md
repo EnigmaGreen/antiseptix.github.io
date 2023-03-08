@@ -7,8 +7,8 @@ sort: 7
 title: AntiSeptix PRO Disinfectant Ready-to-Use 1l
 subtitle: Simple, fast and effective disinfectant
 description: AntiSeptix Multi Surface Disinfectant is a surface disinfectant spray that kills 99.9% of bacteria, fungus and viruses, including E.coli, salmonella, coronavirus, poliovirus, norovirus and flu. AntiSeptix Multi Surface Disinfectant is a chemical free, ZERO alcohol, non-toxic, fragrance-free disinfectant that has odour eliminating properties, as well as being harmless to the skin.
-thumbnail: https://sparmed_live.s3.amazonaws.com/media/products/OODSF-10000.png
-image: https://sparmed_live.s3.amazonaws.com/media/products/OODSF-10000.png
+thumbnail: /antiseptix.github.io/images/dk1.png #https://sparmed_live.s3.amazonaws.com/media/products/OODSF-10000.png
+image: /antiseptix.github.io/images/dk1.png #https://sparmed_live.s3.amazonaws.com/media/products/OODSF-10000.png
 amazon: 
 buynow: http://antiseptix.zohocommerce.eu/products/antiseptic-pro-disinfectant-ready-to-use-1l/354940000000048042
 applicationpro: ["Cleaning and Sterilisation", "Hospitality", "Medical", "Deodorising", "Sports", "Swimming Pools"]
